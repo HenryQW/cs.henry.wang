@@ -16,7 +16,10 @@ module.exports = {
         }
       }
     },
-    "@vuepress/back-to-top": true
+    "@vuepress/back-to-top": true,
+    dehydrate: {
+      noSSR: "404.html"
+    }
   },
   locales: {
     "/zh/": {
