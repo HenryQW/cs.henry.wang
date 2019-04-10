@@ -1,0 +1,22 @@
+{
+  "cSpell.words": [
+    "Alrehiely's",
+    "Bederson",
+    "Cartograms",
+    "Chao's",
+    "Elif",
+    "HEOR",
+    "Liam's",
+    "Majedah",
+    "Qiru",
+    "Selfoss",
+    "Treemaps",
+    "Xiaoxiao",
+    "datavis",
+    "markdownlint",
+    "treemap"
+  ],
+  "markdownlint.config": {
+    "MD007": { "indent": 4 }
+  }
+}

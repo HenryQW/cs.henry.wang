@@ -1,5 +1,7 @@
 # PhD Data Visualisation
 
+<!-- markdownlint-disable MD033 -->
+
 ## 4 Apr 2019
 
 <Meeting members="Bob, Wang, Carlo" date="4 Apr 19 11:00" nextDate="5 Apr 19 11:00">
