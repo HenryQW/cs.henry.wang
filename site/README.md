@@ -1,11 +1,11 @@
 # Qiru Wang (Henry)
 
-I'm a full-time research associate (and a part-time PhD candidate) in Data Visualisation of DataVis Group, Computer Science, College of Science, Swansea University.
+I'm a full-time **research associate** (and a part-time **PhD candidate**) in **Data Visualisation** of the DataVis Group, Computer Science, College of Science, Swansea University.
 
-I worked at Data Science, Medical School, Swansea University as a full-time developer. During the period I co-founded the platform「MedGate」for Natural Language Programming of Healthcare Data, I'm still actively participating  the development as a core developer.
+Worked at Data Science, Medical School, Swansea University as a full-time software engineer, I **co-founded MedGate**, a platform for Natural Language Programming of Healthcare Data, in which I'm still actively participating in the development as a core developer.
 
 ## Bringing Healthcare Data to Life
 
-My research focuses on public healthcare data.
+My research focuses on **population healthcare data**.
 
-The current project aims to provide an advanced visual analytics and visualisation tool for population healthcare data that integrates heterogeneous data.
+The current project aims to provide an **advanced visual analytics and visualisation tool** for population healthcare data that integrates heterogeneous data.
