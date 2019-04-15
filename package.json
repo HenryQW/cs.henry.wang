@@ -9,7 +9,6 @@
   },
   "dependencies": {
     "@vuepress/plugin-back-to-top": "^1.0.0-alpha.47",
-    "@vuepress/plugin-pwa": "^1.0.0-alpha.47",
     "markdown-it": "^8.4.2",
     "vuepress-plugin-dehydrate": "^1.0.2"
   }

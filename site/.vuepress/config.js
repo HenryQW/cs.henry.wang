@@ -3,19 +3,6 @@ module.exports = {
     // "@vuepress/google-analytics": {
     //   ga: ""
     // },
-    "@vuepress/pwa": {
-      serviceWorker: true,
-      updatePopup: {
-        "/zh": {
-          message: "发现新内容可用",
-          buttonText: "刷新"
-        },
-        "/": {
-          message: "New content is available",
-          buttonText: "Refresh"
-        }
-      }
-    },
     "@vuepress/back-to-top": true,
     dehydrate: {
       noSSR: "404.html"
