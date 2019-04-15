@@ -3,11 +3,13 @@
 <div class="meetingBlock" :id="date">
   <table>
     <tr>
+      <th>No</th>
       <th>Date</th>
       <th>Next Meeting</th>
       <th>Members</th>
     </tr>
     <tr>
+      <td>{{index}}</td>
       <td>{{date}}</td>
       <td>{{nextDate}}</td>
       <td>{{members}}</td>
@@ -33,6 +35,10 @@
 <script>
 export default {
   props: {
+    index: {
+      type: Number,
+      required: true
+    },
     date: {
       type: String,
       required: true
