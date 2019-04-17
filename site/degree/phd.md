@@ -42,6 +42,37 @@
 
 :::
 
+::: slot todoProg
+
+- MedGate screenshots: none as the server was not accessible due to hardware upgrade, but nothing exciting at the moment for DataVis
+- VAHC mailing list pending approval
+- Chao’s paper read
+- Qt and OpenGL set up, tried some demos, starting on [Qt with OpenGL](https://www.trentreed.net/topics/qt-framework/)
+- Chapter 1 of CQT Book read
+- Survey papers on HealthVis: none found at the moment
+- Books on HealthVis
+    - [Healthcare Data Analytics](https://www.amazon.com/Healthcare-Analytics-Chapman-Knowledge-Discovery/dp/1482232111)
+    - Most of the books mention on DataVis briefly, focus more on data analytics, mining, machine learning etc.
+- Interview papers on HealthVis:
+    1. [Zakkar2017](http://www.ncbi.nlm.nih.gov/pubmed/29026455): 7 domain experts, emphases on knowledge gaps
+    1. [Rind2010](https://publik.tuwien.ac.at/files/PubDat_190298.pdf): 5 physicians, more on software requirement gathering
+    1. [Menger2016](http://www.ncbi.nlm.nih.gov/pubmed/27630736): 19 expert sessions
+    1. [Robinson2009](http://ieeexplore.ieee.org/document/5190786/): 8 analysts, comes with interview questions
+    1. [Ahn2014](http://ieeexplore.ieee.org/document/6620874/), which is APS14 from SoS: 12 experts, not on HealthVis though
+- Interview questions are still WIP, found some [examples](http://www.personal.psu.edu/acr181/IV09.pdf) from Robinson2009
+- Possible project direction:
+    - A dashboard with widgets/sections for visualising different diseases/conditions for patients
+    - Make use of SAIL’s data, and its close contacts with domain experts
+- KKC14 and APS 14 from SoS read
+- Interesting findings:
+    - A gallery of HealthVis: [vizhealth](http://www.vizhealth.org/gallery/)
+    - Ben Shneiderman wins again
+    - [David Borland](https://renci.org/staff/david-borland/), University of North Carolina at Chapel Hill, has many HealthVis-related papers:
+        - [West2015](http://www.ncbi.nlm.nih.gov/pubmed/25336597)
+        - [Gotz2016](https://ieeexplore.ieee.org/document/7466736/)
+
+:::
+
 </Meeting>
 
 ## 5 Apr 2019
