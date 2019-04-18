@@ -49,14 +49,15 @@
 - Chao’s paper read
 - Qt and OpenGL set up, tried some demos, starting on [Qt with OpenGL](https://www.trentreed.net/topics/qt-framework/)
 - Chapter 1 of CQT Book read
-- Survey papers on HealthVis: none found at the moment
-- Books on HealthVis
+- Survey papers on HealthVis:
+    - [Rind2011a](http://www.cs.umd.edu/hcil/trs/2010-19/2010-19.pdf): reviews existing EHR Vis systems, leads to 6 other survey papers
+- Books on HealthVis:
     - [Healthcare Data Analytics](https://www.amazon.com/Healthcare-Analytics-Chapman-Knowledge-Discovery/dp/1482232111)
     - Most of the books mention on DataVis briefly, focus more on data analytics, mining, machine learning etc.
 - Interview papers on HealthVis:
     1. [Zakkar2017](http://www.ncbi.nlm.nih.gov/pubmed/29026455): 7 domain experts, emphases on knowledge gaps
     1. [Rind2010](https://publik.tuwien.ac.at/files/PubDat_190298.pdf): 5 physicians, more on software requirement gathering
-    1. [Menger2016](http://www.ncbi.nlm.nih.gov/pubmed/27630736): 19 expert sessions
+    1. [Menger2016](http://www.ncbi.nlm.nih.gov/pubmed/27630736): 19 expert sessions, cross industry collaboration
     1. [Robinson2009](http://ieeexplore.ieee.org/document/5190786/): 8 analysts, comes with interview questions
     1. [Ahn2014](http://ieeexplore.ieee.org/document/6620874/), which is APS14 from SoS: 12 experts, not on HealthVis though
 - Interview questions are still WIP, found some [examples](http://www.personal.psu.edu/acr181/IV09.pdf) from Robinson2009
