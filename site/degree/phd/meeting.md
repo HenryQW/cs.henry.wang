@@ -1,10 +1,61 @@
-# PhD Data Visualisation
+# Minutes of Meeting
 
 <!-- markdownlint-disable MD033 -->
 
+## 18 Apr 2019
+
+<Meeting index=26 members="Bob, Carlo, Dylan, Elif, Wang" date="18 Apr 19 11:00" nextDate="25 Apr 19 11:00">
+
+::: slot topic
+
+- Manage 8+ million documents
+- GATE extracts structured text from unstructured text
+- People: gender, age, weight
+- UKsERP
+- Trent Reed - Qt tutorial
+
+:::
+
+::: slot progress
+
+- 5 interview papers found
+- Get Qt demo program running
+- Read CQT book chapter 1
+- VAHC mailing list
+- Read Chao's paper
+
+:::
+
+::: slot todo
+
+- Take screenshots/demo video of MedGate
+- Summarise: Interactive Information Visualization to Explore and Query Electronic Health Records, liaise with Carlo on how to summarise a survey
+- Watch Bob's tutorial on how to read a vis paper, read Step 1 of PVSK
+- Upload PDFs of interview papers to CS server
+- Step 1 MedGate: generate a histogram of population by age
+- Read chapter 2 of CQT book
+- Draft a list of interview questions for EHR domain experts
+- Read section 1.3 literature search methodology of How to Write A Vis Survey Paper
+- Search for recent EHR surveys on vis
+
+:::
+
+::: slot todoProg
+
+- Interview papers on HealthVis:
+    1. [Zakkar2017](http://www.ncbi.nlm.nih.gov/pubmed/29026455): 7 domain experts, knowledge gaps
+    1. [Rind2010](https://publik.tuwien.ac.at/files/PubDat_190298.pdf): 5 physicians, software requirement gathering
+    1. [Menger2016](http://www.ncbi.nlm.nih.gov/pubmed/27630736): 19 expert sessions, cross industry collaboration
+    1. [Robinson2009](http://ieeexplore.ieee.org/document/5190786/): 8 analysts, comes with interview questions
+    1. [Ahn2014](http://ieeexplore.ieee.org/document/6620874/), which is APS14 from SoS: 12 experts, not on HealthVis though
+
+:::
+
+</Meeting>
+
 ## 11 Apr 2019
 
-<Meeting index=25 members="Bob, Dylan, Elif, Wang" date="12 Apr 19 11:00" nextDate="181 Apr 19 11:00">
+<Meeting index=25 members="Bob, Dylan, Elif, Wang" date="12 Apr 19 11:00" nextDate="18 Apr 19 11:00">
 
 ::: slot topic
 
@@ -54,12 +105,6 @@
 - Books on HealthVis:
     - [Healthcare Data Analytics](https://www.amazon.com/Healthcare-Analytics-Chapman-Knowledge-Discovery/dp/1482232111)
     - Most of the books mention on DataVis briefly, focus more on data analytics, mining, machine learning etc.
-- Interview papers on HealthVis:
-    1. [Zakkar2017](http://www.ncbi.nlm.nih.gov/pubmed/29026455): 7 domain experts, emphases on knowledge gaps
-    1. [Rind2010](https://publik.tuwien.ac.at/files/PubDat_190298.pdf): 5 physicians, more on software requirement gathering
-    1. [Menger2016](http://www.ncbi.nlm.nih.gov/pubmed/27630736): 19 expert sessions, cross industry collaboration
-    1. [Robinson2009](http://ieeexplore.ieee.org/document/5190786/): 8 analysts, comes with interview questions
-    1. [Ahn2014](http://ieeexplore.ieee.org/document/6620874/), which is APS14 from SoS: 12 experts, not on HealthVis though
 - Interview questions are still WIP, found some [examples](http://www.personal.psu.edu/acr181/IV09.pdf) from Robinson2009
 - Possible project direction:
     - A dashboard with widgets/sections for visualising different diseases/conditions for patients

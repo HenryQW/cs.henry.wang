@@ -1,4 +1,4 @@
-# MSc Advanced Computer Science
+# Minutes of Meeting
 
 <!-- markdownlint-disable MD033 -->
 

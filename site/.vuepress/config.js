@@ -40,8 +40,13 @@ module.exports = {
         sidebar: [
           {
             collapsable: false,
-            title: "会议纪要",
-            children: ["/zh/degree/phd", "/zh/degree/msc"]
+            title: "PhD",
+            children: ["/zh/degree/phd/meeting", "/zh/degree/phd/paper"]
+          },
+          {
+            collapsable: false,
+            title: "MSc",
+            children: ["/zh/degree/msc/meeting"]
           },
           "/zh/contact"
         ]
@@ -60,8 +65,13 @@ module.exports = {
         sidebar: [
           {
             collapsable: false,
-            title: "Minutes of Meeting",
-            children: ["degree/phd", "degree/msc"]
+            title: "PhD",
+            children: ["degree/phd/meeting", "degree/phd/paper"]
+          },
+          {
+            collapsable: false,
+            title: "MSc",
+            children: ["degree/msc/meeting"]
           },
           "contact"
         ]
