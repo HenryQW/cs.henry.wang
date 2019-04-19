@@ -15,17 +15,17 @@
         <td>{{members}}</td>
       </tr>
     </table>
-    <p>
+    <div>
       <h4>Topic Discussed:</h4>
       <slot name="topic">
       </slot>
-    </p>
-    <p>
+    </div>
+    <div>
       <h4>Progress:</h4>
       <slot name="prog">
       </slot>
-    </p>
-    <p>
+    </div>
+    <div>
       <h4>Todo:</h4>
       <table>
         <tr>
@@ -47,7 +47,7 @@
           </td>
         </tr>
       </table>
-    </p>
+    </div>
   </div>
 </template>
 <script>
