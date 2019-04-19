@@ -16,7 +16,7 @@
 
 :::
 
-::: slot progress
+::: slot prog
 
 - 5 interview papers found
 - Get Qt demo program running
@@ -42,12 +42,12 @@
 
 ::: slot todoProg
 
-- Interview papers on HealthVis:
-    1. [Zakkar2017](http://www.ncbi.nlm.nih.gov/pubmed/29026455): 7 domain experts, knowledge gaps
-    1. [Rind2010](https://publik.tuwien.ac.at/files/PubDat_190298.pdf): 5 physicians, software requirement gathering
-    1. [Menger2016](http://www.ncbi.nlm.nih.gov/pubmed/27630736): 19 expert sessions, cross industry collaboration
-    1. [Robinson2009](http://ieeexplore.ieee.org/document/5190786/): 8 analysts, comes with interview questions
-    1. [Ahn2014](http://ieeexplore.ieee.org/document/6620874/), which is APS14 from SoS: 12 experts, not on HealthVis though
+- Interview papers on HealthVis ([download all](https://share.henry.wang/Cog0Gx/OMk965gfM3+)):
+    1. [Zakkar2017](https://share.henry.wang/tBKUcP/n9qpRDZ4N1+): 7 domain experts, knowledge gaps
+    1. [Rind2010](https://share.henry.wang/1pVAjO/obEaY8j4mP+): 5 physicians, software requirement gathering
+    1. [Menger2016](https://share.henry.wang/c8IhNd/tKAEPMfg3P+): 19 expert sessions, cross industry collaboration
+    1. [Robinson2009](https://share.henry.wang/FBJDBP/7qOiF85hr3+): 8 analysts, comes with interview questions
+    1. [Ahn2014](https://share.henry.wang/d0psFX/2rhzroiXAB+), which is APS14 from SoS: 12 experts, not on HealthVis though
 
 :::
 
