@@ -1,18 +1,6 @@
 
 <template>
   <div class="paperSumBlock" :id="index">
-    <table>
-      <tr>
-        <th>No</th>
-        <th>Author(s)</th>
-        <th>Summarised On</th>
-      </tr>
-      <tr>
-        <td>{{index}}</td>
-        <td>{{author}}</td>
-        <td>{{date}}</td>
-      </tr>
-    </table>
     <div>
       <h3>The Concept</h3>
       <slot name="1">
@@ -45,26 +33,3 @@
     </div>
   </div>
 </template>
-<script>
-export default {
-  props: {
-    index: {
-      type: Number,
-      required: true
-    },
-    date: {
-      type: String,
-      required: true
-    },
-    title: {
-      type: String,
-      required: true
-    },
-    author: {
-      type: String,
-      required: true
-    },
-  }
-}
-</script>
-
