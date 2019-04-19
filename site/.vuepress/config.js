@@ -3,10 +3,7 @@ module.exports = {
     // "@vuepress/google-analytics": {
     //   ga: ""
     // },
-    "@vuepress/back-to-top": true,
-    dehydrate: {
-      noSSR: "404.html"
-    }
+    "@vuepress/back-to-top": true
   },
   locales: {
     "/zh/": {

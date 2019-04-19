@@ -8,8 +8,6 @@
     "copy": "rm -rf site/zh/degree && cp -r site/degree site/zh/degree"
   },
   "dependencies": {
-    "@vuepress/plugin-back-to-top": "^1.0.0-alpha.47",
-    "markdown-it": "^8.4.2",
-    "vuepress-plugin-dehydrate": "^1.0.2"
+    "@vuepress/plugin-back-to-top": "^1.0.0-alpha.47"
   }
 }

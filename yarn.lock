@@ -887,7 +887,7 @@
   resolved "https://registry.yarnpkg.com/@vuepress/plugin-search/-/plugin-search-1.0.0-alpha.47.tgz#4463927edd915ee38fbe08510f4398ff9da43ab0"
   integrity sha512-Cc0Pckzv4bspfOFecvubazirnZMPbaT4B4KT3KPknrqCfW0Uiv4sSxXEAtzMCB+UF6P7Dlt50SfI/2MO7k58xg==
 
-"@vuepress/shared-utils@^1.0.0-alpha.44", "@vuepress/shared-utils@^1.0.0-alpha.47":
+"@vuepress/shared-utils@^1.0.0-alpha.47":
   version "1.0.0-alpha.47"
   resolved "https://registry.yarnpkg.com/@vuepress/shared-utils/-/shared-utils-1.0.0-alpha.47.tgz#a971d026fbb1c9d05255eec7986ef9a243ce4f74"
   integrity sha512-4E/p0Owp4KUBpICeWctwZTCBPGuqzLwDBREjigVyPC02+A0oTL5XT8KVYj6uWn4VjSIt+XtMY2TYDpYni5f5Ew==
@@ -4491,7 +4491,7 @@ markdown-it-emoji@^1.4.0:
   resolved "https://registry.yarnpkg.com/markdown-it-emoji/-/markdown-it-emoji-1.4.0.tgz#9bee0e9a990a963ba96df6980c4fddb05dfb4dcc"
   integrity sha1-m+4OmpkKljupbfaYDE/dsF37Tcw=
 
-markdown-it@^8.4.1, markdown-it@^8.4.2:
+markdown-it@^8.4.1:
   version "8.4.2"
   resolved "https://registry.yarnpkg.com/markdown-it/-/markdown-it-8.4.2.tgz#386f98998dc15a37722aa7722084f4020bdd9b54"
   integrity sha512-GcRz3AWTqSUphY3vsUqQSFMbgR38a4Lh3GWlHRh/7MRwz8mcu9n2IO7HOh+bXHrR9kOPDl5RNCaEsrneb+xhHQ==
@@ -7512,13 +7512,6 @@ vuepress-plugin-container@^2.0.0:
   integrity sha512-SMlWJl0uZYkqAxD2RUZmIrANZWKgiZdM64K7WmdyHyQPYI+NUj3ugi5D+zDn62BoO9NfQTiskEIa2u619SRweA==
   dependencies:
     markdown-it-container "^2.0.0"
-
-vuepress-plugin-dehydrate@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/vuepress-plugin-dehydrate/-/vuepress-plugin-dehydrate-1.0.2.tgz#52ee904169fbb60542222e3cbc176e8464b5aa07"
-  integrity sha512-T04skAajarLfSAbvhyawQe8eDTrVVEHvBBDghBb3LZp8GRBKJZkbygM0GPVPM8QItJGnVKSNnCqwCkPZhdl/TQ==
-  dependencies:
-    "@vuepress/shared-utils" "^1.0.0-alpha.44"
 
 vuepress@1.0.0-alpha.47:
   version "1.0.0-alpha.47"
