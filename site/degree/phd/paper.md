@@ -8,20 +8,39 @@ By Alexander Rind, Taowei David Wang, Wolfgang Aigner, Silvia Miksch, Krist Wong
 
 <Paper>
 
-::: slot 1
+::: slot concept
 
 This paper reviews the state-of-the-art of information visualization systems for exploring and querying EHRs, by evaluating their techniques, designs and effectiveness in knowledge discovery. The authors intend to identify potential research directions for researchers and designers of InfoVis EHR systems.
 
 :::
 
-::: slot 2
+::: slot implementation
 
+<div class="even">
+<p>
 The authors mainly evaluated 14 InfoVis EHR systems by the following criteria:
 
 1. Data type covered
+    - categorical: nominal or ordinal
+    - numerical: continuous or discrete
 1. Multivariate support
+    - End users often need to analyse more than one variable
 1. Multi-Patient record support
+    - Support for analysis of single patient or a cohort
 1. User interaction support
+    - Select: brush
+    - Explore: zoom and pan
+    - Reconfigure: reposition, sort and adjustment of axis/item
+    - Encode: visual encoding
+    - Abstract/Elaborate: show/hide details
+    - Filter: filter by time
+    - Connect: show related data
+
+</p>
+
+![14 InfoVis EHR systems reviewed](https://share.henry.wang/NPYi3H/DwtZa31Vhl+)
+
+</div>
 
 They also briefly reviewed 32 other EHR systems.
 

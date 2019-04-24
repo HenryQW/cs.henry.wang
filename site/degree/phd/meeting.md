@@ -49,6 +49,12 @@
     1. [Robinson2009](https://share.henry.wang/FBJDBP/7qOiF85hr3+): 8 analysts, comes with interview questions
     1. [Ahn2014](https://share.henry.wang/d0psFX/2rhzroiXAB+), which is APS14 from SoS: 12 experts, not on HealthVis though
 
+- Recent EHR survey papers:
+    1. [West2015](https://share.henry.wang/9lUBUK/qByGMWZ9RJ+)
+
+- Recent EHR paper:
+    1. [Rogers2018](https://share.henry.wang/NAx8OS/3um69xtMPR+)
+
 :::
 
 </Meeting>
