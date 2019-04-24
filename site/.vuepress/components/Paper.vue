@@ -1,34 +1,44 @@
 
 <template>
-  <div class="paperSumBlock" :id="index">
-    <div>
+  <div class="paperSumBlock">
+    <div v-if="$slots.concept">
       <h3>The Concept</h3>
-      <slot name="1">
+      <slot name="concept">
       </slot>
     </div>
-    <div>
+    <div v-if="$slots.implementation">
       <h3>The Implementation</h3>
-      <slot name="2">
+      <slot name="implementation">
       </slot>
     </div>
-    <div>
+    <div v-if="$slots.related">
       <h3>Related Work</h3>
-      <slot name="3">
+      <slot name="related">
       </slot>
     </div>
-    <div>
+    <div v-if="$slots.data">
       <h3>Data Characteristics</h3>
-      <slot name="4">
+      <slot name="data">
       </slot>
     </div>
-    <div>
+    <div v-if="$slots.challenge">
+      <h3>Challenges</h3>
+      <slot name="challenges">
+      </slot>
+    </div>
+    <div v-if="$slots.challenge">
+      <h3>Challenges</h3>
+      <slot name="challenges">
+      </slot>
+    </div>
+    <div v-if="$slots.technique">
       <h3>Visualisation Techniques</h3>
-      <slot name="5">
+      <slot name="technique">
       </slot>
     </div>
-    <div>
+    <div v-if="$slots.domain">
       <h3>Application Domain</h3>
-      <slot name="6">
+      <slot name="domain">
       </slot>
     </div>
   </div>
