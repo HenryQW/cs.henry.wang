@@ -14,7 +14,7 @@ This paper reviews the state-of-the-art of information visualization systems for
 
 :::
 
-::: slot implementation
+::: slot classification
 
 <div class="even">
 <p>
@@ -46,7 +46,23 @@ They also briefly reviewed 32 other EHR systems.
 
 :::
 
-::: slot 3
+::: slot challenge
+
+1. Different tasks require different techniques, visualisations need to be tailor-made.
+1. Increase amount and complexity in data.
+1. Patients keep their own data and are interested in visualising them, however, existing tools are not open for individual use (patients want self-serve).
+
+:::
+
+::: slot unsolved
+
+1. Transition from multiple patient analysis ot single patient analysis is not well studied.
+1. Lack of advanced interaction.
+1. Systematic errors in data are hard to identify and rectify.
+
+:::
+
+::: slot related
 
 The paper reviews 6 other similar surveys of EHR systems.
 
@@ -59,15 +75,19 @@ The paper reviews 6 other similar surveys of EHR systems.
 
 :::
 
-::: slot 4
+::: slot cited
+
+159
 
 :::
 
-::: slot 5
+::: slot years
+
+1946-2013
 
 :::
 
-::: slot 6
+::: slot domain
 
 InfoVis of EHR.
 
