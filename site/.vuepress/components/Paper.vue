@@ -11,6 +11,11 @@
       <slot name="implementation">
       </slot>
     </div>
+    <div v-if="$slots.classification">
+      <h3>Classification</h3>
+      <slot name="classification">
+      </slot>
+    </div>
     <div v-if="$slots.related">
       <h3>Related Work</h3>
       <slot name="related">
@@ -23,17 +28,27 @@
     </div>
     <div v-if="$slots.challenge">
       <h3>Challenges</h3>
-      <slot name="challenges">
+      <slot name="challenge">
       </slot>
     </div>
-    <div v-if="$slots.challenge">
-      <h3>Challenges</h3>
-      <slot name="challenges">
+    <div v-if="$slots.unsolved">
+      <h3>Unsolved Problems</h3>
+      <slot name="unsolved">
       </slot>
     </div>
     <div v-if="$slots.technique">
       <h3>Visualisation Techniques</h3>
       <slot name="technique">
+      </slot>
+    </div>
+    <div v-if="$slots.cited">
+      <h3>Papers Cited</h3>
+      <slot name="cited">
+      </slot>
+    </div>
+    <div v-if="$slots.years">
+      <h3>Years Spanned</h3>
+      <slot name="years">
       </slot>
     </div>
     <div v-if="$slots.domain">
