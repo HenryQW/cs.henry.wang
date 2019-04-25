@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "@vuepress/plugin-back-to-top": "1.0.0-alpha.47",
-    "glob": "^7.1.3"
+    "glob": "7.1.3"
   }
 }
