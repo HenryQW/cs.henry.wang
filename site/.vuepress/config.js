@@ -1,3 +1,22 @@
+const glob = require("glob");
+
+// function for loading all MD files in a directory
+const getChildren = function(parent_path, dir) {
+  return glob
+    .sync(parent_path + "/" + dir + "/*.md")
+    .map(path => {
+      // remove "parent_path" and ".md"
+      // path = path.substring(path.length - 3, 0);
+      path = path.slice(parent_path.length + 1, -3);
+      // remove README
+      if (path.endsWith("README")) {
+        path = path.slice(0, -6);
+      }
+      return path;
+    })
+    .sort();
+};
+
 module.exports = {
   plugins: {
     // "@vuepress/google-analytics": {
@@ -20,7 +39,7 @@ module.exports = {
   dest: "./dist",
   themeConfig: {
     sidebar: "auto",
-    sidebarDepth: 2,
+    sidebarDepth: 1,
     docsDir: "site",
     locales: {
       "/zh/": {
@@ -38,7 +57,13 @@ module.exports = {
           {
             collapsable: false,
             title: "PhD",
-            children: ["/zh/degree/phd/meeting", "/zh/degree/phd/paper"]
+            children: [
+              "degree/phd/meeting",
+              {
+                title: "Summary",
+                children: getChildren("site", "degree/phd/paper/summary")
+              }
+            ]
           },
           {
             collapsable: false,
@@ -63,7 +88,14 @@ module.exports = {
           {
             collapsable: false,
             title: "PhD",
-            children: ["degree/phd/meeting", "degree/phd/paper"]
+            children: [
+              "degree/phd/meeting",
+              "degree/phd/paper/paper",
+              {
+                title: "Summary",
+                children: getChildren("site", "degree/phd/paper/summary")
+              }
+            ]
           },
           {
             collapsable: false,

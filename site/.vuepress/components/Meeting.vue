@@ -54,7 +54,7 @@
 export default {
   props: {
     index: {
-      type: Number,
+      type: String,
       required: true
     },
     date: {

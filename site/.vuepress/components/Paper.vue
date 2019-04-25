@@ -1,6 +1,9 @@
-
 <template>
   <div class="paperSumBlock">
+    <div v-if="$slots.basic">
+      <slot name="basic">
+      </slot>
+    </div>
     <div v-if="$slots.concept">
       <h3>The Concept</h3>
       <slot name="concept">
