@@ -24,6 +24,11 @@ module.exports = {
     // },
     "@vuepress/back-to-top": true
   },
+  markdown: {
+    extendMarkdown: md => {
+      md.use(require("markdown-it-task-lists"));
+    }
+  },
   locales: {
     "/zh/": {
       lang: "zh-CN",
