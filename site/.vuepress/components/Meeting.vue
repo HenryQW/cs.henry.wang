@@ -17,36 +17,33 @@
     </table>
     <div>
       <h4>Topic Discussed:</h4>
-      <slot name="topic">
-      </slot>
+      <slot name="topic"></slot>
     </div>
     <div>
       <h4>Progress:</h4>
-      <slot name="prog">
-      </slot>
+      <slot name="prog"></slot>
     </div>
     <div>
       <h4>Todo:</h4>
-      <table>
+      <slot name="todo"></slot>
+      <!-- <table>
         <tr>
-          <th>
-            Todo
-          </th>
-          <th>
-            Progress
-          </th>
+          <th>Todo</th>
+          <th>Progress</th>
         </tr>
         <tr>
           <td valign="top">
-            <slot name="todo">
-            </slot>
+            <slot name="todo"></slot>
           </td>
           <td valign="top">
-            <slot name="todoProg">
-            </slot>
+            <slot name="todoProg"></slot>
           </td>
         </tr>
-      </table>
+      </table>-->
+    </div>
+    <div v-if="$slots.todoProg">
+      <h4>Todo Progress:</h4>
+      <slot name="todoProg"></slot>
     </div>
   </div>
 </template>
@@ -68,15 +65,15 @@ export default {
     members: {
       type: String,
       required: true
-    },
+    }
   }
-}
+};
 </script>
 <style>
 li.params p {
   display: inline;
-  }
+}
 .meetingBlock {
   margin: 1rem 0 2rem;
-  }
+}
 </style>

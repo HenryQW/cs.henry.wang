@@ -2,9 +2,61 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 25 Apr 2019
+
+<Meeting index="27" members="Bob, Dylan, Elif, Wang" date="25 Apr 19 11:00" nextDate="2 May 19 11:00">
+
+::: slot topic
+
+- Tesla
+- 200 patient records/letters
+
+:::
+
+::: slot prog
+
+- 1st survey paper summary
+- Started reading chapter 2 of QT book
+
+:::
+
+::: slot todo
+
+- [x] Print out survey paper summary for Bob to review
+- [x] Add the followings to survey paper summary:
+    - [x] Classification
+    - [x] Future Challenges
+    - [x] Unsolved Problems
+    - [x] Papers Cited
+    - [x] Years Spanned
+- [x] Follow Bob's file naming convention: surname of first author, year, first significant word of title (eg: laramee2011interactive)
+- [ ] Summarise West et.al 2014
+- [ ] Copy Vis 2018 USB and look for related papers on EHR vis
+- [ ] Look at the following papers:
+    - [ ] Using dashboard networks to visualize multiple patient histories
+    - [ ] RetainVis: Visual Analytics with Interpretable and Interactive Recurrent Neural Networks on Electronic Medical Records
+    - [ ] A framework for externalizing implicit error using visualization
+- [x] Histogram of population by age in 1 year intervals
+- [ ] User option: highlight "numbers" for MedGate
+- Draft a list of interview questions for EHR domain experts
+    1. Please provide a brief description of your job.
+    1. What general topic area(s) does your research(s) cover?
+    1. What are your research objectives?
+    1. Do you have any hypotheses? What are your unsolved problems?
+    1. What general types of dataset are common in your research (e.g. numerical data, text documents, images, etc.)?
+    1. On average, what is the size of dataset do you generally work with? (e.g. 5,000 rows of CSV, 3,000 images, etc.)
+    1. What methods do you use to analyse the data (e.g. statistical, excel, document analysis tools, etc.)?
+    1. What methods or tools do you use to get the “bigger picture” about your collections of results?
+    1. What are the areas of improvement you'd like to see in the tools you use for your research(s) (e.g. data processing speed, interactive functions, user-friendliness etc.)?
+    1. If you could find out anything in your research(s), what would that be?
+
+:::
+
+</Meeting>
+
 ## 18 Apr 2019
 
-<Meeting index=26 members="Bob, Carlo, Dylan, Elif, Wang" date="18 Apr 19 11:00" nextDate="25 Apr 19 11:00">
+<Meeting index="26" members="Bob, Carlo, Dylan, Elif, Wang" date="18 Apr 19 11:00" nextDate="25 Apr 19 11:00">
 
 ::: slot topic
 
@@ -61,7 +113,7 @@
 
 ## 11 Apr 2019
 
-<Meeting index=25 members="Bob, Dylan, Elif, Wang" date="12 Apr 19 11:00" nextDate="18 Apr 19 11:00">
+<Meeting index="25" members="Bob, Dylan, Elif, Wang" date="12 Apr 19 11:00" nextDate="18 Apr 19 11:00">
 
 ::: slot topic
 
@@ -129,7 +181,7 @@
 
 ## 5 Apr 2019
 
-<Meeting index=24 members="Bob, Dylan, Elif, Wang" date="5 Apr 19 11:00" nextDate="11 Apr 19 11:00">
+<Meeting index="24" members="Bob, Dylan, Elif, Wang" date="5 Apr 19 11:00" nextDate="11 Apr 19 11:00">
 
 ::: slot topic
 
@@ -161,7 +213,7 @@
 
 ## 4 Apr 2019
 
-<Meeting index=23 members="Bob, Wang, Carlo" date="4 Apr 19 11:00" nextDate="5 Apr 19 11:00">
+<Meeting index="23" members="Bob, Wang, Carlo" date="4 Apr 19 11:00" nextDate="5 Apr 19 11:00">
 
 ::: slot topic
 
