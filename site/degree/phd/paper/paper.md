@@ -1,5 +1,23 @@
 # Papers
 
+## 25 Apr 2019
+
+- EHR related papers from Vis 2018 ([download all](https://share.henry.wang/jUnaIj/HzEqdj4zSu+)):
+    1. **dingen2018regression**, RegressionExplorer: Interactive Exploration of Logistic Regression Models with Subgroup Analysis
+    1. **guo2018visual**, Visual Progression Analysis of Event Sequence Data, which briefly touches on EHR
+    1. **rogers2018compose** and its poster, Composer: Visual Cohort Analysis of Patient Outcomes
+    1. **skokan2018interactive** (poster), Interactive Visual Tools Supporting Effective Health State Understanding of Patient with Comorbidities
+
+- EHR related papers from TVGC 2019 ([download all](https://share.henry.wang/199SG7/pOBFSWsoDf+)). Bob recommended during the meeting.
+    1. **bernard2019dashboard**, Using dashboard networks to visualize multiple patient histories
+    1. **kwon2019retain**, RetainVis: Visual Analytics with Interpretable and Interactive Recurrent Neural Networks on Electronic Medical Records
+    1. **mccurdy2019framework**, A framework for externalizing implicit error using visualization
+
+- A web-based visualisation tool [Charticulator](https://charticulator.com/) published on Vis 2018 ([download all](https://share.henry.wang/7SfayG/gIUuHJagR7+)):
+    1. **ren2018charticulator**
+    1. **ren2018reflecting** (position paper)
+    1. Implementation Details and Performance Benchmarks
+
 ## 18 Apr 2019
 
 - Interview papers on HealthVis ([download all](https://share.henry.wang/Cog0Gx/OMk965gfM3+)):

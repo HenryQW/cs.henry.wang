@@ -30,14 +30,14 @@
     - [x] Papers Cited
     - [x] Years Spanned
 - [x] Follow Bob's file naming convention: surname of first author, year, first significant word of title (eg: laramee2011interactive)
-- [ ] Summarise West et.al 2014
-- [ ] Copy Vis 2018 USB and look for related papers on EHR vis
+- [X] Summarise West et.al 2014
+- [x] Copy Vis 2018 USB and look for related papers on EHR vis
 - [ ] Look at the following papers:
-    - [ ] Using dashboard networks to visualize multiple patient histories
-    - [ ] RetainVis: Visual Analytics with Interpretable and Interactive Recurrent Neural Networks on Electronic Medical Records
-    - [ ] A framework for externalizing implicit error using visualization
-- [x] Histogram of population by age in 1 year intervals
-- [ ] User option: highlight "numbers" for MedGate
+    - [ ] **bernard2019dashboard**, Using dashboard networks to visualize multiple patient histories
+    - [ ] **kwon2019retain**, RetainVis: Visual Analytics with Interpretable and Interactive Recurrent Neural Networks on Electronic Medical Records
+    - [ ] **mccurdy2019framework**, A framework for externalizing implicit error using visualization
+- [x] Histogram of population by age in 1 year intervals [Live Demo](https://healthvis.henry.wang/#/histogram)
+- [x] User option: highlight "numbers" for MedGate [Live Demo](https://healthvis.henry.wang/#/markup)
 - Draft a list of interview questions for EHR domain experts
     1. Please provide a brief description of your job.
     1. What general topic area(s) does your research(s) cover?
