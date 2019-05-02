@@ -47,5 +47,8 @@
       <h3>Application Domain</h3>
       <slot name="domain"></slot>
     </div>
+    <div>
+      <h3>Reference</h3>
+    </div>
   </div>
 </template>
