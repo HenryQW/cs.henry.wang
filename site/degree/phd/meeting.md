@@ -2,6 +2,46 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 2 May 2019
+
+<Meeting index="28" members="Bob, Carlo, Wang" date="2 May 19 14:30" nextDate="18 May 19 11:00">
+
+::: slot topic
+
+- Histogram
+- C++ and OpenGL are good for large dataset size and speed + cross-platform
+- Using dashboard methods to visualise multiple patient histories
+- Charticulator + D3
+- Bob away next week at Eurographics 2019
+
+:::
+
+::: slot prog
+
+- Histogram of A&E admittance 2017 in 5 year intervals
+- Highlight number for MedGate - first draft
+- Summary of west15innovative - first draft
+- PhD application
+
+:::
+
+::: slot todo
+
+- [x] Copy 2017 VIS usb stick and look for relevant papers
+    - [Equity Monitor: Visualizing Attributes of Health Inequity in Atlanta](http://xiaoxuezhang.info/health_viz_project/)
+- [ ] Histogram of population by age in 1 year intervals
+- [ ] Screen capture dashboard overview of SAIL databank
+- [x] Highlight lines with numbers: web-based frontend and c++ server end - use 200 letters as input (use QT libraries)
+- [x] Next draft of west15 summary
+- [x] Next draft of rind11 summary
+    - You may need to add diagrams for classification
+- [x] Lowri ext 2369 for PDR
+- [x] Apply for PhD
+
+:::
+
+</Meeting>
+
 ## 25 Apr 2019
 
 <Meeting index="27" members="Bob, Dylan, Elif, Wang" date="25 Apr 19 11:00" nextDate="2 May 19 11:00">
@@ -32,10 +72,10 @@
 - [x] Follow Bob's file naming convention: surname of first author, year, first significant word of title (eg: laramee2011interactive)
 - [X] Summarise West et.al 2014
 - [x] Copy Vis 2018 USB and look for related papers on EHR vis
-- [ ] Look at the following papers:
-    - [ ] **bernard2019dashboard**, Using dashboard networks to visualize multiple patient histories
-    - [ ] **kwon2019retain**, RetainVis: Visual Analytics with Interpretable and Interactive Recurrent Neural Networks on Electronic Medical Records
-    - [ ] **mccurdy2019framework**, A framework for externalizing implicit error using visualization
+- [x] Look at the following papers:
+    - **bernard2019dashboard**, Using dashboard networks to visualize multiple patient histories
+    - **kwon2019retain**, RetainVis: Visual Analytics with Interpretable and Interactive Recurrent Neural Networks on Electronic Medical Records
+    - **mccurdy2019framework**, A framework for externalizing implicit error using visualization
 - [x] Histogram of population by age in 1 year intervals [Live Demo](https://healthvis.henry.wang/#/histogram)
 - [x] User option: highlight "numbers" for MedGate [Live Demo](https://healthvis.henry.wang/#/markup)
 - Draft a list of interview questions for EHR domain experts
