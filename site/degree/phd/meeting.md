@@ -2,6 +2,42 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 17 May 2019
+
+<Meeting index="29" members="Bob, Wang" date="17 May 19 11:00" nextDate="24 May 19 11:00">
+
+::: slot topic
+
+- NY Times data: 1987-2007, 3.3 GB, $300
+- College of Science Doctoral Training Center
+- ngrest
+- Owen Pearson, Robert Powell, visible lunch on 4th July
+
+:::
+
+::: slot prog
+
+- Next draft of survey summaries
+- Tested c++ backend servers
+- 200 patient letters
+- draft of interview questions
+
+:::
+
+::: slot todo
+
+- [x] Look at Doctoral Training Center webpage
+- [ ] Next draft of survey summaries
+- [ ] Ask Carlo to prof-read your writing before showing to Bob
+- [x] Rename patient letters
+- [ ] Try thumbnail view of number positions
+- [ ] Next draft of interview questions
+- [ ] Choose 1-2 vis 2018 paper to summarise
+
+:::
+
+</Meeting>
+
 ## 2 May 2019
 
 <Meeting index="28" members="Bob, Carlo, Wang" date="2 May 19 14:30" nextDate="18 May 19 11:00">
