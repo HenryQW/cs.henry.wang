@@ -81,7 +81,7 @@ module.exports = {
         ]
       },
       "/": {
-        lang: "en-GB",
+        lang: "en-US",
         selectText: "中文",
         label: "English",
         lastUpdated: "Last Updated",
