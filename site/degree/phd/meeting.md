@@ -27,12 +27,12 @@
 ::: slot todo
 
 - [x] Look at Doctoral Training Center webpage
-- [ ] Next draft of survey summaries
+- [x] Next draft of survey summaries
 - [ ] Ask Carlo to prof-read your writing before showing to Bob
 - [x] Rename patient letters
-- [ ] Try thumbnail view of number positions
-- [ ] Next draft of interview questions
-- [ ] Choose 1-2 vis 2018 paper to summarise
+- [x] Try thumbnail view of number positions [Live Demo](https://healthvis.henry.wang/#/markup)
+- [x] Next draft of interview questions
+- [ ] Choose 1-2 vis 2018 paper to summarize
 
 :::
 
@@ -46,7 +46,7 @@
 
 - Histogram
 - C++ and OpenGL are good for large dataset size and speed + cross-platform
-- Using dashboard methods to visualise multiple patient histories
+- Using dashboard methods to visualize multiple patient histories
 - Charticulator + D3
 - Bob away next week at Eurographics 2019
 
@@ -106,7 +106,7 @@
     - [x] Papers Cited
     - [x] Years Spanned
 - [x] Follow Bob's file naming convention: surname of first author, year, first significant word of title (eg: laramee2011interactive)
-- [X] Summarise West et.al 2014
+- [X] Summarize West et.al 2014
 - [x] Copy Vis 2018 USB and look for related papers on EHR vis
 - [x] Look at the following papers:
     - **bernard2019dashboard**, Using dashboard networks to visualize multiple patient histories
@@ -157,7 +157,7 @@
 ::: slot todo
 
 - Take screenshots/demo video of MedGate
-- Summarise: Interactive Information Visualization to Explore and Query Electronic Health Records, liaise with Carlo on how to summarise a survey
+- Summarize: Interactive Information Visualization to Explore and Query Electronic Health Records, liaise with Carlo on how to summarize a survey
 - Watch Bob's tutorial on how to read a vis paper, read Step 1 of PVSK
 - Upload PDFs of interview papers to CS server
 - Step 1 MedGate: generate a histogram of population by age
@@ -217,7 +217,7 @@
 - Read Chao's paper on Cartograms with Features
 - Search for survey papers on Healthcare Vis
 - Look for recent books on Healthcare Vis
-- Look at Dylan's survey of information visualisation books
+- Look at Dylan's survey of information visualization books
 - Think about first project direction
 - Think about literature survey
 - Start writing a list of interview questions
