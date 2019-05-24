@@ -2,6 +2,41 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 23 May 2019
+
+<Meeting index="30" members="Bob, Dylan, Elif, Wang" date="23 May 19 11:00" nextDate="30 May 19 11:00">
+
+::: slot topic
+
+- Ideas: Heatmap overview of all letters
+- Categorize numbers: Postcodes, measurements, dates, times, NHS numbers, hospital numbers, patient weights/heights
+
+:::
+
+::: slot prog
+
+- Next draft of interview questions
+- Thumbnail view of number positions
+- Tooltips for individual numbers on thumbnail view
+- Next draft of survey summaries
+
+:::
+
+::: slot todo
+
+- [ ] Record interview with Sam Turner (audio only)
+- [ ] Add "context" text to detail view on either side of number
+- [ ] Try to base thumbnail view on original document format
+- [ ] Focus text position reflects actual position on original line
+- [ ] User option: expand or collapse original text
+- [ ] Grey line thickness reflects number of lines between numbers in documents
+- [ ] "Permanent" proof-read by Carlo
+- [ ] Try summarize a VIS 2018 paper (Regression Explorer)
+
+:::
+
+</Meeting>
+
 ## 17 May 2019
 
 <Meeting index="29" members="Bob, Wang" date="17 May 19 11:00" nextDate="24 May 19 11:00">
