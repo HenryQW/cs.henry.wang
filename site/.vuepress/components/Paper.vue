@@ -32,7 +32,7 @@
       <slot name="unsolved"></slot>
     </div>
     <div v-if="$slots.technique">
-      <h3>Visualisation Techniques</h3>
+      <h3>Visualization Techniques</h3>
       <slot name="technique"></slot>
     </div>
     <div v-if="$slots.cited">
