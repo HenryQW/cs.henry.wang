@@ -28,10 +28,10 @@
 - [ ] Add "context" text to detail view on either side of number
 - [ ] Try to base thumbnail view on original document format
 - [ ] Focus text position reflects actual position on original line
-- [ ] User option: expand or collapse original text
-- [ ] Grey line thickness reflects number of lines between numbers in documents
-- [ ] "Permanent" proof-read by Carlo
-- [ ] Try summarize a VIS 2018 paper (Regression Explorer)
+- [x] User option: expand or collapse original text
+- [x] Grey line thickness reflects number of lines between numbers in documents
+- [x] "Permanent" proof-read by Carlo
+- [x] Try summarize a VIS 2018 paper (Regression Explorer)
 
 :::
 
