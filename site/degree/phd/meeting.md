@@ -2,6 +2,43 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 30 May 2019
+
+<Meeting index="31" members="Bob, Dylan, Elif, Wang" date="30 May 19 11:00" nextDate="14 Jun 19 11:00">
+
+::: slot topic
+
+- Bob away for EuroVis
+- LaTex formation guidelines
+
+:::
+
+::: slot prog
+
+- Expand/collapse original text
+- Summary of Regression Explorer
+
+:::
+
+::: slot todo
+
+- [ ] Prepare a poster for CoS DTC conference on 13 June 2019
+- [ ] Interview Sam Turner on 7 June 2019
+- [ ] Derive an average number of words/lines and use that as the limit for paragraphs
+- [ ] Try to base thumbnail view on original printed document format
+- [ ] Focus text position replaces position in printed file
+- [ ] Try reduce white space between lines by 50%
+- [ ] Grey line thickness reflecting number of lines between numbered lines
+- [ ] A rainbow color heatmap for overview
+- [ ] Start classifying numbers: postcodes, measurements, dates, times, NHS numbers, hospital numbers, patient weights/heights
+- [ ] Look for books on NLP
+- [ ] 2 paper summaries
+
+:::
+
+</Meeting>
+
+
 ## 23 May 2019
 
 <Meeting index="30" members="Bob, Dylan, Elif, Wang" date="23 May 19 11:00" nextDate="30 May 19 11:00">
