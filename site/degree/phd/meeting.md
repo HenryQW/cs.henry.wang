@@ -22,22 +22,21 @@
 
 ::: slot todo
 
-- [ ] Prepare a poster for CoS DTC conference on 13 June 2019
-- [ ] Interview Sam Turner on 7 June 2019
-- [ ] Derive an average number of words/lines and use that as the limit for paragraphs
-- [ ] Try to base thumbnail view on original printed document format
-- [ ] Focus text position replaces position in printed file
-- [ ] Try reduce white space between lines by 50%
-- [ ] Grey line thickness reflecting number of lines between numbered lines
-- [ ] A rainbow color heatmap for overview
+- [x] Prepare a poster for CoS DTC conference on 13 June 2019
+- [x] Interview Sam Turner on 7 June 2019
+- [x] Derive an average number of words/lines and use that as the limit for paragraphs
+- [x] Try to base thumbnail view on original printed document format
+- [x] Focus text position replaces position in printed file
+- [x] Try reduce white space between lines by 50%
+- [x] Grey line thickness reflecting number of lines between numbered lines
+- [x] A rainbow color heatmap for overview
 - [ ] Start classifying numbers: postcodes, measurements, dates, times, NHS numbers, hospital numbers, patient weights/heights
 - [ ] Look for books on NLP
-- [ ] 2 paper summaries
+- [x] 2 paper summaries
 
 :::
 
 </Meeting>
-
 
 ## 23 May 2019
 
