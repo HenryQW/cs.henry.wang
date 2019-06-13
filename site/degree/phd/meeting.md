@@ -2,6 +2,52 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 12 Jun 2019
+
+<Meeting index="32" members="Bob, Dylan, Elif, Wang" date="12 May 19 11:00" nextDate="20 Jun 19 11:00">
+
+::: slot topic
+
+- Page layout visual designs
+- Helen Thomas - NWIS (next meeting on train)
+- Wang away fro training courses on 4-5 July
+
+:::
+
+::: slot prog
+
+- Derived 100 chars per line based on 10 word documents
+- Line breaks introduced for paragraphs
+- Grey line thickness is mapped to number of lines between numbered lines
+- Rainbow color heatmap for overview
+- Interview with Sam Turner (20 minutes)
+
+:::
+
+::: slot todo
+
+- [ ] Choose a paper session for EuroVis 2019 conference report
+- [ ] Display whole line whenever a number appears (previously discuss as context-view)
+- [ ] Preserve A4 size aspect ratio
+- [ ] Preserve original white space when showing lines with numbers
+- [ ] Use MedGate to classify numbers
+- [x] Ask Mohammed if he recommends any book on NLP
+- [ ] Have a look through introduction to text visualization book
+- [x] Archive interview with Sam Turner
+- [ ] Write interview summary with Sam Turner
+- [ ] Next interview
+- [ ] Add short description of data source to each paper summary
+- [ ] Next paper summary
+- [x] Find a tripod and directional microphone for Bob's camcorder
+- [x] Bob send Sony camcorder model number to Wang
+- [x] Present at conference tomorrow
+- [ ] Trip to Cardiff on 20 June 2019
+
+:::
+
+</Meeting>
+
+
 ## 30 May 2019
 
 <Meeting index="31" members="Bob, Dylan, Elif, Wang" date="30 May 19 11:00" nextDate="14 Jun 19 11:00">
