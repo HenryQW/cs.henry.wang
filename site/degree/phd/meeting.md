@@ -10,7 +10,7 @@
 
 - Page layout visual designs
 - Helen Thomas - NWIS (next meeting on train)
-- Wang away fro training courses on 4-5 July
+- Wang away for training courses on 4-5 July
 
 :::
 
@@ -27,26 +27,25 @@
 ::: slot todo
 
 - [ ] Choose a paper session for EuroVis 2019 conference report
-- [ ] Display whole line whenever a number appears (previously discuss as context-view)
-- [ ] Preserve A4 size aspect ratio
-- [ ] Preserve original white space when showing lines with numbers
+- [x] Display whole line whenever a number appears (previously discussed as context-view)
+- [x] Preserve A4 size aspect ratio
+- [x] Preserve original white space when showing lines with numbers
 - [ ] Use MedGate to classify numbers
 - [x] Ask Mohammed if he recommends any book on NLP
 - [ ] Have a look through introduction to text visualization book
-- [x] Archive interview with Sam Turner
-- [ ] Write interview summary with Sam Turner
-- [ ] Next interview
-- [ ] Add short description of data source to each paper summary
-- [ ] Next paper summary
+- [x] Archive interview with Sam Turner [link](https://share.henry.wang/CBZhbi/IJeMfQfCAa+) 
+- [x] Write interview summary with Sam Turner [link](https://share.henry.wang/wwAsKC/RisB3buEFq+)
+- [x] Arrange the next interview [On 25th with Arron]
+- [x] Add short description of data source to each paper summary
+- [x] Next paper summary
 - [x] Find a tripod and directional microphone for Bob's camcorder
 - [x] Bob send Sony camcorder model number to Wang
 - [x] Present at conference tomorrow
-- [ ] Trip to Cardiff on 20 June 2019
+- [x] Trip to Cardiff on 20 June 2019
 
 :::
 
 </Meeting>
-
 
 ## 30 May 2019
 
