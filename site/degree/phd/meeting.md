@@ -2,9 +2,47 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 20 June 2019
+
+<Meeting index="33" members="Bob, Wang" date="20 June 19 12:00" nextDate="27 Jun 19 11:00">
+
+::: slot topic
+
+- EZY Vegan
+- NLTK
+- Microphone + tripod
+
+:::
+
+::: slot prog
+
+- Vis papers uploaded to Mendeley
+- Next EHR paper summary
+- Summary of interview with Sam Turner
+- A4 aspect radio
+- Document white space preserved
+
+:::
+
+::: slot todo
+
+- [x] Bob add link to swanseavis.com
+- [x] For next summary, collect data on the number of patients visualized. try to derive from examples if not disclosed explicitly
+- [ ] Start a summary table of EHR Vis papers
+- [x] Next EHR paper summary
+- [x] Modify/update interview questions
+- [x] Shorten text lines
+- [x] Color-code numbers based on type - start with the easiest first and most difficult last (look at NLTK)
+- [x] Prioritize IEEE Vis and EuroVis papers over the VAHC for literature review
+- [x] Order microphone and tripod for Bob
+
+:::
+
+</Meeting>
+
 ## 12 Jun 2019
 
-<Meeting index="32" members="Bob, Dylan, Elif, Wang" date="12 May 19 11:00" nextDate="20 Jun 19 11:00">
+<Meeting index="32" members="Bob, Dylan, Elif, Wang" date="12 June 19 11:00" nextDate="20 Jun 19 11:00">
 
 ::: slot topic
 
@@ -33,9 +71,9 @@
 - [ ] Use MedGate to classify numbers
 - [x] Ask Mohammed if he recommends any book on NLP
 - [ ] Have a look through introduction to text visualization book
-- [x] Archive interview with Sam Turner [link](https://share.henry.wang/CBZhbi/IJeMfQfCAa+) 
-- [x] Write interview summary with Sam Turner [link](https://share.henry.wang/wwAsKC/RisB3buEFq+)
-- [x] Arrange the next interview [On 25th with Arron]
+- [x] Archive interview with Sam Turner [link](https://share.henry.wang/CBZhbi/IJeMfQfCAa+)
+- [x] Write interview summary with Sam Turner [link](https://share.henry.wang/Ol28NG/U6mJQOUzDZ+)
+- [x] Arrange the next interview, on 25th July with Arron Lacey
 - [x] Add short description of data source to each paper summary
 - [x] Next paper summary
 - [x] Find a tripod and directional microphone for Bob's camcorder
