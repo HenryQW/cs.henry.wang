@@ -5,13 +5,13 @@
       <tr>
         <th>No</th>
         <th>Date</th>
-        <th>Next Meeting</th>
+        <th v-if="$slots.nextDate">Next Meeting</th>
         <th>Members</th>
       </tr>
       <tr>
         <td>{{index}}</td>
         <td>{{date}}</td>
-        <td>{{nextDate}}</td>
+        <td v-if="$slots.nextDate">{{nextDate}}</td>
         <td>{{members}}</td>
       </tr>
     </table>
@@ -19,27 +19,13 @@
       <h4>Topic Discussed:</h4>
       <slot name="topic"></slot>
     </div>
-    <div>
+    <div  v-if="$slots.prog">
       <h4>Progress:</h4>
       <slot name="prog"></slot>
     </div>
-    <div>
+    <div v-if="$slots.todo">
       <h4>Todo:</h4>
       <slot name="todo"></slot>
-      <!-- <table>
-        <tr>
-          <th>Todo</th>
-          <th>Progress</th>
-        </tr>
-        <tr>
-          <td valign="top">
-            <slot name="todo"></slot>
-          </td>
-          <td valign="top">
-            <slot name="todoProg"></slot>
-          </td>
-        </tr>
-      </table>-->
     </div>
     <div v-if="$slots.todoProg">
       <h4>Todo Progress:</h4>
