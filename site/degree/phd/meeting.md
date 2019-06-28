@@ -2,9 +2,76 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 27 June 2019
+
+<Meeting index="35" members="Bob, Carlo, Wang" date="27 June 19 11:00" nextDate="2 July 19 11:00">
+
+::: slot topic
+
+- Meetings are scheduled to Tuesdays
+- Observe meetings on Monday
+- NLTK
+- Gate
+- Spacy
+- GPE - geopolitical entity
+- SNOMED
+- UMLS (unified medical language system)
+- Prodigy
+
+:::
+
+::: slot prog
+
+- Next EHR paper summary
+- Interview with Arron Lacey
+- Classified numbers with Spacy
+
+:::
+
+::: slot todo
+
+- [ ] Check SoS paper for event sequence visualization
+- [ ] Next EHR paper summary
+- [ ] Summarize interview with Arron Lacey
+- [ ] Look for next interviewee
+- [ ] Try gate/nltk to identify numbers, compare with Spacy
+- [ ] Upload minutes of meetings with NWIS (append with Helen)
+- [ ] Capture phone numbers
+- [ ] Follow up with Julie about equipment order
+
+:::
+
+</Meeting>
+
+## 20 June 2019 with Helen Thomas (NWIS)
+
+<Meeting index="34" members="Helen Thomas, Gareth John, Wendy Dearing, Tim O’Sullivan, Jeffrey Herschel Giansiracusa, Bob, Wang" date="20 June 19 13:00">
+
+::: slot topic
+
+- End of July, deadline for EPSRC bid
+- Access to data
+- Co-supervision, secondments
+- ONS census data
+- ATOS
+- Radiology reports
+- Image analysis
+- Letters, 20 million
+- Patient reports of cancer outcomes
+- SNOMED - ontology to describe clinical terminology
+- Systemized nomenclature standard
+- Gate from Sheffield University
+- Visualize pathways through NHS
+- Call centre playlist
+- Healthcare playlist
+
+:::
+
+</Meeting>
+
 ## 20 June 2019
 
-<Meeting index="33" members="Bob, Wang" date="20 June 19 12:00" nextDate="27 Jun 19 11:00">
+<Meeting index="33" members="Bob, Wang" date="20 June 19 10:00" nextDate="27 Jun 19 11:00">
 
 ::: slot topic
 
