@@ -30,14 +30,15 @@
 
 ::: slot todo
 
-- [ ] Check SoS paper for event sequence visualization
-- [ ] Next EHR paper summary
-- [ ] Summarize interview with Arron Lacey
+- [x] Check SoS paper for event sequence visualization
+- [x] Next EHR paper summary
+- [x] Summarize interview with Arron Lacey [link](https://share.henry.wang/ZCksVT/DtjefH8V5V+)
+- [x] Archive interview audio with Arron Lacey [link](https://share.henry.wang/69ePTJ/mvmq8w24rb+)
 - [ ] Look for next interviewee
 - [ ] Try gate/nltk to identify numbers, compare with Spacy
-- [ ] Upload minutes of meetings with NWIS (append with Helen)
-- [ ] Capture phone numbers
-- [ ] Follow up with Julie about equipment order
+- [x] Upload minutes of meetings with NWIS (append with Helen)
+- [x] Capture phone numbers
+- [x] Color coding numbers based on length
 
 :::
 
