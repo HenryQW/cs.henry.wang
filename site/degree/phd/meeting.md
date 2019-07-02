@@ -2,6 +2,52 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 2 July 2019
+
+<Meeting index="36" members="Bob, Mohammed, Wang" date="2 July 19 11:00" nextDate="7 July 19 11:00">
+
+::: slot topic
+
+- Digest
+- Survey scope - focus, out of focus
+- TexShop
+- SciKit, SciKit-learn
+- Prodigy, Explosion AI
+- Backup use sticks
+- Impact factors
+
+:::
+
+::: slot prog
+
+- Color-coded according to length
+- Testing NLTK, Gate, Spacy
+- Asked for license for Prodigy
+- Classification of phone numbers and nhs numbers with spacy
+- Next paper summary
+- Interview summary and archive - Arron Lacey
+
+:::
+
+::: slot todo
+
+- [ ] Ask Mohammed for a copy of MooVis
+- [ ] Follow up with Julie about equipment order
+- [ ] Have a look at "State-of-the-art report of visual analysis for event detection in text data streams"
+- [ ] User option: color mapping numbers based on category or length
+- [ ] Continue testing out NLTK, Gate and space
+- [ ] Add a color legend
+- [ ] User option: color map the overview plot
+- [ ] Add ability to expand letters to full length (remove the collapse exclusion)
+- [ ] On-mouse-over for numbers to show entire paragraph
+- [ ] Next paper summary
+- [ ] Placing USB sticks in an archive
+- [ ] Start building table that summarizes EHR papers
+
+:::
+
+</Meeting>
+
 ## 27 June 2019
 
 <Meeting index="35" members="Bob, Carlo, Wang" date="27 June 19 11:00" nextDate="2 July 19 11:00">
