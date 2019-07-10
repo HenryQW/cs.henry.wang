@@ -31,18 +31,18 @@
 
 ::: slot todo
 
-- [ ] Ask Mohammed for a copy of MooVis
-- [ ] Follow up with Julie about equipment order
-- [ ] Have a look at "State-of-the-art report of visual analysis for event detection in text data streams"
+- [ ] Ask Mohammed for a copy of MoorVis
+- [x] Follow up with Julie about equipment order
+- [x] Have a look at "State-of-the-art report of visual analysis for event detection in text data streams"
 - [ ] User option: color mapping numbers based on category or length
-- [ ] Continue testing out NLTK, Gate and space
-- [ ] Add a color legend
-- [ ] User option: color map the overview plot
-- [ ] Add ability to expand letters to full length (remove the collapse exclusion)
-- [ ] On-mouse-over for numbers to show entire paragraph
-- [ ] Next paper summary
-- [ ] Placing USB sticks in an archive
-- [ ] Start building table that summarizes EHR papers
+- [x] Continue testing out NLTK, Gate and space
+- [x] Add a color legend
+- [x] User option: color map the overview plot
+- [x] Add ability to expand letters to full length (remove the collapse exclusion)
+- [x] On-mouse-over for numbers to show entire paragraph
+- [x] Next paper summary
+- [x] Placing USB sticks in an archive
+- [x] Start building table that summarizes EHR papers
 
 :::
 
