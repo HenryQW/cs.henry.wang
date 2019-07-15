@@ -2,6 +2,44 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 9 July 2019
+
+<Meeting index="37" members="Bob, Mohammed, Wang" date="9 July 19 11:00" nextDate="16 July 19 11:00">
+
+::: slot topic
+
+- Training event
+- Summer school
+- Wang holiday from 17 July to 11 August
+
+:::
+
+::: slot prog
+
+- 2 day training event - medical school Swansea
+- Watched MoorVis video
+- Looked at "State-of-the-art report of visual analysis for event detection in text data streams"
+- Started an overview table of literature review paper
+- Received license for Prodigy
+- Installed Gate on mac
+- Paper summary - Doccurate
+
+:::
+
+::: slot todo
+
+- [ ] Follow up with Julie about equipment order
+- [x] Ask Mohammed for a link to MoorVis video
+- [x] Get VL speaker names and talk title: Owen Pickrell, Arron Lacey
+- [x] See todo list from 2 July 2019
+- [ ] Compare libraries for classifying numbers
+- [x] Next paper summary - look out for what libraries researchers use
+- [x] Try draft of "Scope Section"
+
+:::
+
+</Meeting>
+
 ## 2 July 2019
 
 <Meeting index="36" members="Bob, Mohammed, Wang" date="2 July 19 11:00" nextDate="7 July 19 11:00">
@@ -31,7 +69,7 @@
 
 ::: slot todo
 
-- [ ] Ask Mohammed for a copy of MoorVis
+- [x] Ask Mohammed for a copy of MoorVis
 - [x] Follow up with Julie about equipment order
 - [x] Have a look at "State-of-the-art report of visual analysis for event detection in text data streams"
 - [ ] User option: color mapping numbers based on category or length
