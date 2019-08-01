@@ -2,6 +2,30 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 16 July 2019
+
+<Meeting index="38" members="Bob, Mohammed, Wang" date="16 July 19 11:00" nextDate="13 Aug 19 11:00">
+
+::: slot topic
+
+- Training event
+- Summer school
+- Wang holiday from 17 July to 11 August
+
+:::
+
+::: slot prog
+
+- 2 day training event - medical school Swansea
+- Watched MoorVis video
+- Looked at "State-of-the-art report of visual analysis for event detection in text data streams"
+- Started an overview table of literature review paper
+- Received license for Prodigy
+- Installed Gate on mac
+- Paper summary - Doccurate
+
+:::
+
 ## 9 July 2019
 
 <Meeting index="37" members="Bob, Mohammed, Wang" date="9 July 19 11:00" nextDate="16 July 19 11:00">
