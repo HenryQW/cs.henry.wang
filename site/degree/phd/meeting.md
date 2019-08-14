@@ -2,6 +2,39 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 13 Aug 2019
+
+<Meeting index="39" members="Bob, Mohammed, Wang" date="13 Aug 19 11:00" nextDate="20 Aug 19 11:00">
+
+::: slot topic
+
+- Rich's laptop - we have an extra now
+- Medical dictionary
+- UMLS
+- Vis USB sticks
+
+:::
+
+::: slot prog
+
+- Correspondence with cosorders
+- First step at redeisgn - 3 level in parallel with 1 document
+- Training prodigy continued
+- Copied USB sticks
+- Next 3 paper summaries: PhysioEX, DecisionFlow, IDMVis
+
+::: slot todo
+
+- [x] Try ordering new equipment via ABW
+- [ ] User option: add N documents (all by default)
+- [ ] Remove dropzone section, add "Add files" as a menu option
+- [ ] User option: resize heatmap, thumbnail view (diagonally) and focus view (resize everything)
+- [ ] Try using SNOMED dictionary
+- [ ] Add a new overview table to survey - medical focus vs number of patients
+- [ ] Next summary
+- [ ] Keep maintaining existing tables in the survey
+
+:::
 ## 16 July 2019
 
 <Meeting index="38" members="Bob, Mohammed, Wang" date="16 July 19 11:00" nextDate="13 Aug 19 11:00">
@@ -23,6 +56,18 @@
 - Received license for Prodigy
 - Installed Gate on mac
 - Paper summary - Doccurate
+
+::: slot todo
+
+- [x] Follow up with Julie about the order
+- [x] Ask cosorders@swanswa.ac.uk for advice on ordering new equipment
+- [x] User option to show original latter (with highlighted numbers) over to the right
+- [x] Try updating visual design according to sketch on the back
+- [x] Training prodigy
+- [x] Test gate
+- [x] Next 3 summaries
+- [ ] Search vispubdata for related papers
+- [x] add "Medical focus" to all survey paper summary
 
 :::
 
