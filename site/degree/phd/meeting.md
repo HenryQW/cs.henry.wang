@@ -23,6 +23,8 @@
 - Copied USB sticks
 - Next 3 paper summaries: PhysioEX, DecisionFlow, IDMVis
 
+:::
+
 ::: slot todo
 
 - [x] Try ordering new equipment via ABW
@@ -30,11 +32,14 @@
 - [ ] Remove dropzone section, add "Add files" as a menu option
 - [ ] User option: resize heatmap, thumbnail view (diagonally) and focus view (resize everything)
 - [ ] Try using SNOMED dictionary
-- [ ] Add a new overview table to survey - medical focus vs number of patients
-- [ ] Next summary
-- [ ] Keep maintaining existing tables in the survey
+- [x] Add a new overview table to survey - medical focus vs number of patients
+- [x] Next summary
+- [x] Keep maintaining existing tables in the survey
 
 :::
+
+</Meeting>
+
 ## 16 July 2019
 
 <Meeting index="38" members="Bob, Mohammed, Wang" date="16 July 19 11:00" nextDate="13 Aug 19 11:00">
@@ -57,6 +62,8 @@
 - Installed Gate on mac
 - Paper summary - Doccurate
 
+:::
+
 ::: slot todo
 
 - [x] Follow up with Julie about the order
@@ -70,6 +77,8 @@
 - [x] add "Medical focus" to all survey paper summary
 
 :::
+
+</Meeting>
 
 ## 9 July 2019
 
