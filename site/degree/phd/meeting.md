@@ -4,7 +4,7 @@
 
 ## 13 Aug 2019
 
-<Meeting index="39" members="Bob, Mohammed, Wang" date="13 Aug 19 11:00" nextDate="20 Aug 19 11:00">
+<Meeting index="39" members="Bob, Elif, Wang" date="13 Aug 19 11:00" nextDate="20 Aug 19 11:00">
 
 ::: slot topic
 
@@ -18,7 +18,7 @@
 ::: slot prog
 
 - Correspondence with cosorders
-- First step at redeisgn - 3 level in parallel with 1 document
+- First step at redesign - 3 level in parallel with 1 document
 - Training prodigy continued
 - Copied USB sticks
 - Next 3 paper summaries: PhysioEX, DecisionFlow, IDMVis
@@ -28,12 +28,12 @@
 ::: slot todo
 
 - [x] Try ordering new equipment via ABW
-- [ ] User option: add N documents (all by default)
-- [ ] Remove dropzone section, add "Add files" as a menu option
-- [ ] User option: resize heatmap, thumbnail view (diagonally) and focus view (resize everything)
+- [x] User option: add N documents (all by default)
+- [x] Remove dropzone section, add "Add files" as a menu option
+- [x] User option: resize heatmap, thumbnail view (diagonally) and focus view (resize everything)
 - [ ] Try using SNOMED dictionary
 - [x] Add a new overview table to survey - medical focus vs number of patients
-- [x] Next summary
+- [x] Next summary - identified some papers [Download them](https://share.henry.wang/VyShO8/2583OwZYYX+)
 - [x] Keep maintaining existing tables in the survey
 
 :::
