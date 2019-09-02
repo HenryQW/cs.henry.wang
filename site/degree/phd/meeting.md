@@ -2,6 +2,47 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 20 Aug 2019
+
+<Meeting index="40" members="Bob, Mohammed, Wang" date="13 Aug 19 11:00" nextDate="20 Aug 19 11:00">
+
+::: slot topic
+
+- SNOMED, UMLS
+- VLTK dispersion plot
+
+:::
+
+::: slot prog
+
+- New microphone via ABW
+- Removed dropzone
+- Resize with aspect ratio
+- PhenoLines summary
+
+:::
+
+::: slot todo
+
+- [x] Try SNOMED or UMLS on the y-axis and number of patients on the x-axis
+- [x] Fix bug when adding documents
+- [ ] Set a default folder for letter sources
+- [x] Add a separator to Thumbnail view and Focus view
+- [x] Add Detail view - checkbox in top-right corner of Thumbnail view and Focus view
+- [ ] Synchronize scrolling of Thumbnail view and Focus view
+- [x] Start a new folder called "meta-patient-data"
+- [x] Use google cite seer to find more papers
+- [x] Next summary [Download]()
+- [x] RadStream - add to out of scope section
+- [x] SepVis - meta-patient-data folder
+- [x] PROACT - meta-patient-data folder
+- [x] Tumor control models - out of scope
+- [x] Echo - meta-patient-data folder
+
+:::
+
+</Meeting>
+
 ## 13 Aug 2019
 
 <Meeting index="39" members="Bob, Elif, Wang" date="13 Aug 19 11:00" nextDate="20 Aug 19 11:00">
