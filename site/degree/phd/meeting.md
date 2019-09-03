@@ -32,7 +32,7 @@
 - [ ] Synchronize scrolling of Thumbnail view and Focus view
 - [x] Start a new folder called "meta-patient-data"
 - [x] Use google cite seer to find more papers
-- [x] Next summary [Download]()
+- [x] Next summary [Download](https://share.henry.wang/hkTOpZ/9DZ4QXdN6q+)
 - [x] RadStream - add to out of scope section
 - [x] SepVis - meta-patient-data folder
 - [x] PROACT - meta-patient-data folder
