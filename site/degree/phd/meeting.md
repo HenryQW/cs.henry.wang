@@ -2,6 +2,49 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 3 Sep 2019
+
+<Meeting index="41" members="Bob, Mohammed, Wang" date="2 Sep 19 11:00" nextDate="10 Sep 19 11:00">
+
+::: slot topic
+
+- Gate YouTube videos
+- Evaluation: how much evaluation is enough?
+- Cars
+- Setting a default folder for letter sources
+- An even smaller Thumbnail View?
+- Visualization neo-natal spells - in scope
+- Temporal event sequence simplification - in scope
+- Data Vis tools ... - related work
+- Visual analytics on EHR ... - related work
+- GitHub for CGVC 2019 web page
+- Comparing cohorts of event sequences - meta-data folder
+- Finally enrolled
+
+:::
+
+::: slot prog
+
+- 1st draft of overview table for survey based on UMLS
+- Gate working
+- Separator added to Thumbnail and Focus View
+- Add Detail View
+- Paper summary
+
+:::
+
+::: slot todo
+
+- [x] Use "cancer" as parent for "prostate cancer"
+- [x] Show highlighted numbers in Detail View
+- [ ] Synchronize scrolling of Thumbnail view and Focus view
+- [x] Next paper summary
+- [x] Next draft of overview table
+
+:::
+
+</Meeting>
+
 ## 20 Aug 2019
 
 <Meeting index="40" members="Bob, Mohammed, Wang" date="13 Aug 19 11:00" nextDate="20 Aug 19 11:00">
