@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "vuepress": "1.0.4"
+    "vuepress": "1.1.0"
   },
   "scripts": {
     "dev": "yarn copy && vuepress dev site",
@@ -8,7 +8,7 @@
     "copy": "rm -rf site/zh/degree && cp -r site/degree site/zh/degree"
   },
   "dependencies": {
-    "@vuepress/plugin-back-to-top": "1.0.4",
+    "@vuepress/plugin-back-to-top": "1.1.0",
     "glob": "7.1.4",
     "markdown-it-footnote": "3.0.2",
     "markdown-it-imsize": "2.0.1",
