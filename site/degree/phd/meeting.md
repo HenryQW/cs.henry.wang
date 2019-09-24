@@ -1,9 +1,47 @@
 # Minutes of Meeting
 
 <!-- markdownlint-disable MD033 -->
+## 17 Sep 2019
+
+<Meeting index="43" members="Bob, Mohammed, Wang" date="17 Sep 19 11:00" nextDate="17 Sep 19 11:00">
+
+::: slot topic
+
+- CGVC artwork
+- 2 Oct 2019 to training 13:30
+
+:::
+
+::: slot prog
+
+- Bob purchases cgvc.org.uk
+- Applied for TA training
+- Next version of scrolling
+- Draft description of overview table
+- Next paper summary
+
+:::
+
+::: slot todo
+
+- [ ] Set up a CGVC web page on GitHub for all future CGVC conferences - model after VIS conference
+- [x] Try adding an empty letter to handle boundary condition at the end of scrolling
+- [ ] Make scrolling symmetric
+- [ ] Use 10 letters as your default number of documents
+- [X] Fit 1st page of detail view on screen without scrolling
+- [x] Use original letters to derive an average number of lines per page
+- [X] Print out description of overview table
+- [x] Expand description of UMLS - who uses it? Where does it originate? How old is it? Why was it created?
+- [X] Compare UMLS with SNOMED
+- [x] Next paper summary
+
+:::
+
+</Meeting>
+
 ## 10 Sep 2019
 
-<Meeting index="42" members="Bob, Mohammed, Wang" date="8 Sep 19 11:00" nextDate="17 Sep 19 11:00">
+<Meeting index="42" members="Bob, Mohammed, Wang" date="10 Sep 19 11:00" nextDate="17 Sep 19 11:00">
 
 ::: slot topic
 
@@ -42,7 +80,7 @@
 
 ## 3 Sep 2019
 
-<Meeting index="41" members="Bob, Mohammed, Wang" date="2 Sep 19 11:00" nextDate="10 Sep 19 11:00">
+<Meeting index="41" members="Bob, Mohammed, Wang" date="3 Sep 19 11:00" nextDate="10 Sep 19 11:00">
 
 ::: slot topic
 
@@ -85,7 +123,7 @@
 
 ## 20 Aug 2019
 
-<Meeting index="40" members="Bob, Mohammed, Wang" date="13 Aug 19 11:00" nextDate="20 Aug 19 11:00">
+<Meeting index="40" members="Bob, Mohammed, Wang" date="20 Aug 19 11:00" nextDate="2 Sep 19 11:00">
 
 ::: slot topic
 
