@@ -1,9 +1,67 @@
 # Minutes of Meeting
 
 <!-- markdownlint-disable MD033 -->
+## 24 Sep 2019
+
+<Meeting index="44" members="Bob, Mohammed, Wang" date="24 Sep 19 11:00" nextDate="1 Oct 19 11:00">
+
+::: slot topic
+
+- Drugs, prisons
+- Swansea uni preferred supplies: insight.com, stonegroup.co.uk, xma.co.uk, academia.co.uk
+- Symmetric scrolling
+- Idea: compute an average letter (number of lines)
+- Idea: scatterplot matrix view
+- Sketch engine
+
+:::
+
+::: slot prog
+
+- Next draft of survey
+- Next paper summary
+- Fit 1st page of detail view on screen without scrolling
+- 70-75 lines on average page
+- First version of CGVC web page
+
+:::
+
+::: slot todo
+
+- [x] Choose a camcorder + microphone for Bob
+- [ ] Create subsections a list of papers that
+    - [x] Use machine learning (ML)
+    - [x] Use natural language processing (NLP)
+    - [x] Use event sequence (ES)
+    - [ ] Others
+- [x] Create a new table - paper on y-axis, ML, NLP, ES and others on x-axis
+- [x] Abort symmetric scrolling for now - remove Detail View scrolling
+- [x] Change background color of non-focus Thumbnail View to grey
+- [x] Try loading all 200 documents
+- [x] See if you can reduce the white space in Thumbnail View
+- [x] Explore ways to get smaller Thumbnail Views - 10 on screen
+- [x] Read "Considerations for Visualization Comparison" by Michael Gleicher
+- [x] Make CGVC 2020 webpage live
+- [x] Ask Franck for link to CGVC 2019 web page
+- [x] Move "about" content to homepage
+- [x] Use CGVC 2018 terminology and context to set up initial 2020 web page (2020 at KCL, chaired by Rita Borgo)
+- [x] Ask if Carlo's brother will make a logo
+- [x] Ask Franck for history URLs to previous CGVC conferences
+- [x] Next paper summary
+- [ ] Discuss next paper summary with Bob:
+    - T. Gschwandtner. Visualization of patient data and treatment plans: A survey. Asgaard-TR-2009-1. Technical report, Vienna University of Technology, Institute of Software Technology and Interactive Systems, 2009
+    - NLPReViz
+        - [Website and video](https://nlpreviz.github.io)
+        - [Paper](https://share.henry.wang/weU92P/Zhm5iXYcbK+)
+    - CareVis(2006) and CareCruiser
+
+:::
+
+</Meeting>
+
 ## 17 Sep 2019
 
-<Meeting index="43" members="Bob, Mohammed, Wang" date="17 Sep 19 11:00" nextDate="17 Sep 19 11:00">
+<Meeting index="43" members="Bob, Mohammed, Wang" date="17 Sep 19 11:00" nextDate="24 Sep 19 11:00">
 
 ::: slot topic
 
