@@ -1,6 +1,66 @@
 # Minutes of Meeting
 
 <!-- markdownlint-disable MD033 -->
+
+## 1 Oct 2019
+
+<Meeting index="45" members="Bob, Mohammed, Wang" date="1 Oct 19 11:00" nextDate="8 Oct 19 11:00">
+
+::: slot topic
+
+- Bob away from 18-31 Oct at VIS
+- digital.nhs.uk
+- Idea: Thumbnail View wraps around to the beginning (infinite scrolling)
+- Vue: javascript library
+- eg.org - Eurographics webpage
+
+:::
+
+::: slot prog
+
+- Research on camcorders
+- Abort symmetric scrolling
+- Context Thumbnail View, color is semi-transparent
+- Attempt to render 200 documents
+- User clicks on separator which brings letter into focus
+- Reduction in whitespace for Thumbnail View
+- Bob calls Franck
+- Next draft of survey: overview table - papers on y-axis: NLP, ML, ESS, Geospacial, other
+- Next paper summary
+
+:::
+
+::: slot todo
+
+- [x] Find microphone for Sony CX450
+- [x] Order microphone + CX450 with budget code
+- [x] Cite Chao's papers to survey (cartographic treemaps)
+- [x] Start compiling a table of public EHR data sources for survey
+- [ ] Add in a test for visible thumbnails
+- [ ] Try wrapping the Thumbnail View around in a loop (infinite scrolling)
+- [x] Try to add a view with a matrix of Thumbnail Views (with adjustable width)
+- [x] CGVC 2020 webpage: replace unknown context with "TBA"
+- [x] Add TPCG to CGVC webpage for history
+- [x] Update links to past CGVCs
+- [x] Ask Richard for the latest version of CGVC 2018 content
+- [x] Change IEEE logo to Eurographics
+- [x] Add names and titles to CGVC committees
+- [x] Add an "important dates" as TBA
+- [x] Search Pacific Vis for related papers
+- [x] Cite Bob's eHealth on the Horizon in introduction
+- [ ] Checkout UK Biobank for interesting EHR datasets
+- [ ] Discuss innovative ways for sorting documents with Bob
+- [x] Next paper summary
+- [ ] Discuss next paper summary with Bob:
+    - NLPReViz
+        - [Website and video](https://nlpreviz.github.io)
+        - [Paper](https://share.henry.wang/weU92P/Zhm5iXYcbK+)
+    - [Natural language processing of symptoms documented in free-text narratives of electronic health records: a systematic review](https://share.henry.wang/EIo2wh/snRpftwKPq+)
+
+:::
+
+</Meeting>
+
 ## 24 Sep 2019
 
 <Meeting index="44" members="Bob, Mohammed, Wang" date="24 Sep 19 11:00" nextDate="1 Oct 19 11:00">
@@ -48,11 +108,8 @@
 - [x] Ask if Carlo's brother will make a logo
 - [x] Ask Franck for history URLs to previous CGVC conferences
 - [x] Next paper summary
-- [ ] Discuss next paper summary with Bob:
+- [x] Discuss next paper summary with Bob:
     - T. Gschwandtner. Visualization of patient data and treatment plans: A survey. Asgaard-TR-2009-1. Technical report, Vienna University of Technology, Institute of Software Technology and Interactive Systems, 2009
-    - NLPReViz
-        - [Website and video](https://nlpreviz.github.io)
-        - [Paper](https://share.henry.wang/weU92P/Zhm5iXYcbK+)
     - CareVis(2006) and CareCruiser
 
 :::
