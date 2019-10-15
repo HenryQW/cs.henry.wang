@@ -1,6 +1,57 @@
 # Minutes of Meeting
 
 <!-- markdownlint-disable MD033 -->
+## 7 Oct 2019
+
+<Meeting index="46" members="Bob, Mohammed, Wang" date="7 Oct 19 11:00" nextDate="15 Oct 19 11:00">
+
+::: slot topic
+
+- Natural language processing of symptoms documented in free-text narratives of electronic health records: A systematic review
+- NLPReViz: An interactive tool for natural language processing on clinical text
+
+:::
+
+::: slot prog
+
+- Camcorder ordered
+- First draft of survey intro
+- Table of papers vs technique
+- Attempt to sign up for UK Biobank
+- Matrix for Thumbnail View
+- Next version of CGVC website
+- New CGVC logo
+- List of past CGVC conferences added
+- Got CGVC 2018 from Richard
+- Sponsors updated
+- Committee updated
+
+:::
+
+::: slot todo
+
+- [ ] Try citing the big UK NHS IT system in survey intro
+- [x] Next paper summary: NLPReViz
+- [x] Add "Natural language processing of symptoms documented in free-text narratives of electronic health records: A systematic review" to survey related work
+- [x] Try ASCII graphics for border between Thumbnail Views
+- [x] User clicks on a Thumbnail View to bring up the corresponding Focus View
+- [x] Start building sort options: length of letter, chronological
+- [ ] Keep track of how many records you have to update manually (regex cases)
+- [x] Replace filename by ID number -> -----nn----- which resembles a separator
+- [x] Tong has 3 papers (87, 88, 96 on Bob's publication page)
+- [x] Add Public Health England and Project Tycho to the list of public datasets
+- [x] CGVC website
+    - [x] Match EG and EGUK logo sizes
+    - [x] Add the dragon logo
+    - [x] Add CGVC 2018 in original format
+    - [x] Make external links to be opened in a new tab
+    - [x] Add important dates up to month+year
+    - [x] Next version of menu with reorganization
+    - [x] Add CGVC 2018 proceedings
+
+:::
+
+</Meeting>
 
 ## 1 Oct 2019
 
