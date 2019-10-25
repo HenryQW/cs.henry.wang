@@ -1,5 +1,12 @@
 # Papers
 
+## 25 Oct 2019
+
+- EHR related papers from Vis 2019 ([download all](https://share.henry.wang/8uI9XQ/dxy6DEU8HG+)):
+    1. **gotz2019visual**, Visual Analysis of High-Dimensional Event Sequence Data via Dynamic Hierarchical Aggregation
+    1. **ming2019ProtoSteer**, ProtoSteer: Steering Deep Sequence Model with Prototypes
+    1. **borland2019selection** Selection Bias Tracking and Detailed Subset Comparison for High-Dimensional Data
+
 ## 25 Apr 2019
 
 - EHR related papers from Vis 2018 ([download all](https://share.henry.wang/jUnaIj/HzEqdj4zSu+)):
