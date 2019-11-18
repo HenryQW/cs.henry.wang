@@ -1,6 +1,68 @@
 # Minutes of Meeting
 
 <!-- markdownlint-disable MD033 -->
+## 15 Oct 2019
+
+<Meeting index="47" members="Bob, Mohammed, Wang" date="15 Oct 19 11:00" nextDate="4 Nov 19 11:00">
+
+::: slot topic
+
+- Letting property
+- UK NHS IT system
+- SNOMED -> background
+- Acupuncture
+- Highlighting focus thumbnail
+- Medical information mart for intensive care
+
+:::
+
+::: slot prog
+
+- Camcorder success
+- Next paper summary: NLPReViz
+- Next draft of survey
+- Sorting letters by length of documents
+- ASCII graphic border at top of thumbnails
+- Update to CGVC website - looks good
+
+:::
+
+::: slot todo
+
+- [x] Next paper summary
+- [x] Add to survey: Contributions, challenges of EHR Vis
+- [ ] ASCII graphic render around left edge of thumbnails
+- [x] Add Document ID to top border in Focus View
+- [x] Sort documents in both Thumbnail and Focus view
+- [ ] Try adding process indication when adding 100 documents, eg. "Processing n of 200"
+- [x] User option: sort documents by date (First appearance)
+- [x] User option: sort documents by number of numbers
+- [x] Try preprocessing letters for Thumbnail View (a database maybe)
+- [x] Bob reserves accommodation in Nottingham
+- [ ] Discuss document similarity metrics with Bob
+
+CGVC:
+
+- [x] Move dragon to right
+- [x] Add Rita Borgo to committee
+- [x] Contact page: Rita and Alfie Abdul-Rahman as local chairs
+- [x] Review Guidelines: refer to Eurovis 2014
+- [x] Presenter Guidelines: refer to Eurovis 2014
+- [x] Program: add some empty space
+- [x] Keynote: add some empty space
+- [x] Venue: update to King's College London
+- [x] Travel: A link to KCL's travel page
+- [x] Update links to latex templates
+- [x] Add red line separator by default
+- [x] Add MDPI to sponsors
+- [x] Order a new camcorder battery
+- [x] Order a new backup drive
+- [x] Order a new memory card
+
+:::
+
+</Meeting>
+
 ## 7 Oct 2019
 
 <Meeting index="46" members="Bob, Mohammed, Wang" date="7 Oct 19 11:00" nextDate="15 Oct 19 11:00">
