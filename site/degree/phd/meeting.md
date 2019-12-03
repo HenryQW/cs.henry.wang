@@ -1,6 +1,53 @@
 # Minutes of Meeting
 
 <!-- markdownlint-disable MD033 -->
+
+## 26 Nov 2019
+
+<Meeting index="48" members="Bob, Wang" date="26 Nov 19 11:00" nextDate="3 Dec 19 11:00">
+
+::: slot topic
+
+- Bob's flu last Tuesday
+- Selection Bias ... -> Event Sequence Folder
+- Visual Analysis ... -> Event Sequence Folder
+- Idea: adding document similarity metrics for objectivity
+- Idea: Compare document similarity metrics with query-based similarity using visualization
+- Idea: Clustering in letter space
+- Boiler pilot light
+
+:::
+
+::: slot prog
+
+- Camcorder memory card order
+- NLP survey summary - include in related work section
+- DeepEHR - include in related work section
+- Next draft of survey
+- Each number has it's own meta-data
+- Document ID to the top border
+- Sorting documents by length, data, count of numbers
+
+:::
+
+::: slot todo
+
+- [ ] Ask Dylan for proof-reading
+- [x] Summarize Chao's papers [87,88]
+- [ ] Add 2.2 to survey
+- [x] Try using a "black canvas" for thumbnail overview as to add vertical separators between scatter plots
+- [ ] How many numbers total are there?
+- [x] Try loading 200 letters and sorting by count of numbers
+- [ ] Add a color-legend for number type
+- [ ] User option: show centroid of number types
+- [ ] Look for a canvas that let's you draw edges and points
+- [ ] Think about setting up a meeting with Arron in Dec or Jan
+- [ ] Go through the latest changes made for CGVC website with Bob
+
+:::
+
+</Meeting>
+
 ## 15 Oct 2019
 
 <Meeting index="47" members="Bob, Mohammed, Wang" date="15 Oct 19 11:00" nextDate="4 Nov 19 11:00">
@@ -39,7 +86,10 @@
 - [x] User option: sort documents by number of numbers
 - [x] Try preprocessing letters for Thumbnail View (a database maybe)
 - [x] Bob reserves accommodation in Nottingham
-- [ ] Discuss document similarity metrics with Bob
+- [x] Discuss document similarity metrics with Bob
+- [x] Order a new camcorder battery
+- [x] Order a new backup drive
+- [x] Order a new memory card
 
 CGVC:
 
@@ -55,9 +105,6 @@ CGVC:
 - [x] Update links to latex templates
 - [x] Add red line separator by default
 - [x] Add MDPI to sponsors
-- [x] Order a new camcorder battery
-- [x] Order a new backup drive
-- [x] Order a new memory card
 
 :::
 
