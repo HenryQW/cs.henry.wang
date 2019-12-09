@@ -2,6 +2,45 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 3 Dec 2019
+
+<Meeting index="49" members="Bob, Mohammed, Wang" date="3 Dec 19 11:00" nextDate="10 Dec 19 11:00">
+
+::: slot topic
+
+- CGVC website
+
+:::
+
+::: slot prog
+
+- Trip to Nottingham
+- Refactored software for performance
+- 10 seconds to process 200 documents
+- Looping and sorting letters by date, length and count of numbers
+- Vertical separator between Thumbnail views
+- Next paper summary
+
+:::
+
+::: slot todo
+
+- [ ] Discuss CGVC website with Bob
+- [x] See TODO list from 26 Nov 2019
+- [x] Next paper summary [88]
+- [x] Write a README file on how to update the CGVC website
+- [ ] Discuss the centroid calculation (local vs global) with Bob
+
+CGVC:
+
+- [x] Update submission to June
+- [x] Add program committee from 2019 (tentative)
+- [x] Remove "supporter" from program page
+
+:::
+
+</Meeting>
+
 ## 26 Nov 2019
 
 <Meeting index="48" members="Bob, Wang" date="26 Nov 19 11:00" nextDate="3 Dec 19 11:00">
@@ -34,15 +73,15 @@
 
 - [ ] Ask Dylan for proof-reading
 - [x] Summarize Chao's papers [87,88]
-- [ ] Add 2.2 to survey
+- [x] Add 2.2 to survey
 - [x] Try using a "black canvas" for thumbnail overview as to add vertical separators between scatter plots
 - [ ] How many numbers total are there?
 - [x] Try loading 200 letters and sorting by count of numbers
-- [ ] Add a color-legend for number type
+- [x] Add a color-legend for number type
 - [ ] User option: show centroid of number types
 - [ ] Look for a canvas that let's you draw edges and points
 - [ ] Think about setting up a meeting with Arron in Dec or Jan
-- [ ] Go through the latest changes made for CGVC website with Bob
+- [x] Go through the latest changes made for CGVC website with Bob
 
 :::
 
