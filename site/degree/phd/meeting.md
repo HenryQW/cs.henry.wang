@@ -2,6 +2,54 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 10 Dec 2019
+
+<Meeting index="50" members="Bob, Wang" date="10 Dec 19 11:00" nextDate="20 Dec 19 11:00">
+
+::: slot prog
+
+- First draft of CGVC README file
+- Local centroids in individual documents
+- Increase in rendering/sorting performance
+- User option: sorting of documents
+- Next draft of survey paper
+- Next paper summary
+
+:::
+
+::: slot todo
+
+CGVC:
+
+- [x] Email Franck, Rita and Alfie the new CGVC website and ask for feedback (CC:Bob)
+    - [x] Correct the venue information (Rita)
+    - [ ] Remove the dragon logo (Franck)
+- [x] Add logistics of how to access CGVC website to the README file
+
+Software:
+
+- [ ] Try adding a global interactive color legend similar to Chao's for focus and context rendering of different types of numbers
+- [ ] Add different types of numbers: time, date, DoB, NHS number, postcode, phone number, house number, quantities/measurements
+- [ ] User option: the user can choose which type of number to focus on
+- [ ] User option: the user can choose data samples or centroids or both
+- [x] Experiment with progressive rendering
+
+Survey:
+
+- [x] Finish literature search methodology
+- [x] Scan and email Bob's comments
+- [x] Look at Liam's and Chao's PhD thesis for description of Geo-Spatial Vis
+- [x] Next draft of survey introduction
+- [x] Next paper summary [166] (Typo: "Dyland" Rees and Elif "Fırat")
+
+Other:
+
+- [ ] VL on 19 Dec
+
+:::
+
+</Meeting>
+
 ## 3 Dec 2019
 
 <Meeting index="49" members="Bob, Mohammed, Wang" date="3 Dec 19 11:00" nextDate="10 Dec 19 11:00">
@@ -25,11 +73,11 @@
 
 ::: slot todo
 
-- [ ] Discuss CGVC website with Bob
+- [x] Discuss CGVC website with Bob
 - [x] See TODO list from 26 Nov 2019
 - [x] Next paper summary [88]
 - [x] Write a README file on how to update the CGVC website
-- [ ] Discuss the centroid calculation (local vs global) with Bob
+- [x] Discuss the centroid calculation (local vs global) with Bob
 
 CGVC:
 
@@ -71,7 +119,7 @@ CGVC:
 
 ::: slot todo
 
-- [ ] Ask Dylan for proof-reading
+- [x] Ask Dylan for proof-reading
 - [x] Summarize Chao's papers [87,88]
 - [x] Add 2.2 to survey
 - [x] Try using a "black canvas" for thumbnail overview as to add vertical separators between scatter plots
