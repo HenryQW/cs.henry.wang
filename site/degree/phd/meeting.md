@@ -2,6 +2,68 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 16 Dec 2019
+
+<Meeting index="51" members="Bob, Wang" date="16 Dec 19 11:00" nextDate="7 Jan 2020 11:00">
+
+::: slot topic
+
+- Intro
+- Related work
+- Survey of EHR VIS <-- paper summaries
+    - NLP
+    - ML
+    - ESS
+    - Geo
+- Meta-data: resource oriented vs patient oriented
+
+:::
+
+::: slot prog
+
+- Feedback on CGVC webpage
+- Next draft of CGVC README file
+- Progressive rendering - looks good! and progress bar
+- Next draft of survey paper
+- Next paper summary
+- Bob reviews survey intro
+
+:::
+
+::: slot todo
+
+CGVC:
+
+- [x] Move dragon logo to sponsors
+- [x] Update README file to include Bob, also authors
+- [x] Include GitHub URL in README file
+- [x] Ask Franck, Rita and Martin if they have GitHub accounts so they can be added as website administrators
+
+Software:
+
+- [x] Fix "View Document" button
+- [x] Change sort by date to sort by year, month and dat of month
+- [x] Include other data formats '.' and '/' separators
+- [x] Overview show global centroids
+- [ ] See TODO list from 10 Dec 2019
+
+Survey:
+
+- [x] Add a table of content to survey
+- [x] Put related work as section 2
+- [ ] Next draft of survey paper
+    - [x] New classification table
+    - Idea: Add column "user study/interview"
+    - Idea: Add column "Single patient vs cohort"
+    - Possibly exclude chen2018sequence: Sequence Synopsis, dingen2018regression: RegressionExplorer
+    - ACM HEALTH journal
+
+- [ ] Next paper summary
+
+:::
+
+</Meeting>
+
 ## 10 Dec 2019
 
 <Meeting index="50" members="Bob, Wang" date="10 Dec 19 11:00" nextDate="20 Dec 19 11:00">
@@ -23,14 +85,14 @@ CGVC:
 
 - [x] Email Franck, Rita and Alfie the new CGVC website and ask for feedback (CC:Bob)
     - [x] Correct the venue information (Rita)
-    - [ ] Remove the dragon logo (Franck)
+    - [x] Remove the dragon logo (Franck)
 - [x] Add logistics of how to access CGVC website to the README file
 
 Software:
 
-- [ ] Try adding a global interactive color legend similar to Chao's for focus and context rendering of different types of numbers
-- [ ] Add different types of numbers: time, date, DoB, NHS number, postcode, phone number, house number, quantities/measurements
-- [ ] User option: the user can choose which type of number to focus on
+- [x] Try adding a global interactive color legend similar to Chao's for focus and context rendering of different types of numbers
+- [x] Add different types of numbers: time, date, DoB, NHS number, postcode, phone number, house number, quantities/measurements
+- [x] User option: the user can choose which type of number to focus on
 - [ ] User option: the user can choose data samples or centroids or both
 - [x] Experiment with progressive rendering
 
