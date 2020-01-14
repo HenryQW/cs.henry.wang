@@ -2,6 +2,70 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 6 Jan 2020
+
+<Meeting index="52" members="Bob, Wang" date="6 Jan 20 11:00" nextDate="14 Jan 2020 11:00">
+
+::: slot topic
+
+- Tables related to challenges are good
+- DVH*19 out of scope
+- ZCD19 -> ESS
+- CXR18 -> out of scope
+- Evaluation types: controlled user study (task-based), informal user study (likert scale), domain expert evaluation (open-ended), interview (systematic questions)
+
+:::
+
+::: slot prog
+
+- Add Martin and Franck to GitHub repository
+- Add color legend and toggle switches for number types
+- Different types of numbers added
+- User option: user can choose type of number to focus on
+- User option: show data centroids both global and per letter
+- View document button fixed
+- Sort document by day, month, year and date
+- Overview shows global centroids
+- ToC in survey
+- First draft of survey abstract
+- Next draft of survey related work section
+- Great job on CGVC web page
+
+:::
+
+::: slot todo
+
+CGVC:
+
+- [x] Ask Rita on Alfie's role
+- [x] Unify "commitees" on one page
+
+Software:
+
+- [x] Move color legend to toggle switches for number types
+- [x] Add "other" number type for the rest
+- [x] Add number of numbers found
+- [x] User "measurement" instead of "meta"
+- [ ] User option: show data samples (connect actual dots to the centroid)
+
+Survey:
+
+- [x] Add summary of "review of clinical databases" to survey - expand table of data sources
+- [x] Download "secondary analysis of EHR" and read
+- [ ] Bob order a copy of the book
+- [x] Write intro to 3.1 - 3.5 sub-sections
+- [ ] Upload all survey PDFs in online folder for easy access for Bob to view
+- [ ] Organize all survey PDFs into folders by technique
+- [x] Revisit table 4 and update it with table 3
+- [ ] Add a table: papers vs evaluation type
+- [ ] Add a table: single vs cohort, single vs multiple data sources
+- [ ] Look for more papers
+- [ ] Next paper summary
+
+:::
+
+</Meeting>
+
 ## 16 Dec 2019
 
 <Meeting index="51" members="Bob, Wang" date="16 Dec 19 11:00" nextDate="7 Jan 2020 11:00">
@@ -45,7 +109,7 @@ Software:
 - [x] Change sort by date to sort by year, month and dat of month
 - [x] Include other data formats '.' and '/' separators
 - [x] Overview show global centroids
-- [ ] See TODO list from 10 Dec 2019
+- [x] See TODO list from 10 Dec 2019
 
 Survey:
 
@@ -53,11 +117,10 @@ Survey:
 - [x] Put related work as section 2
 - [ ] Next draft of survey paper
     - [x] New classification table
-    - Idea: Add column "user study/interview"
-    - Idea: Add column "Single patient vs cohort"
-    - Possibly exclude chen2018sequence: Sequence Synopsis, dingen2018regression: RegressionExplorer
-    - ACM HEALTH journal
-
+    - [ ] Idea: Add column "user study/interview"
+    - [ ] Idea: Add column "Single patient vs cohort"
+    - [x] Possibly exclude chen2018sequence: Sequence Synopsis, dingen2018regression: RegressionExplorer
+    - [x] ACM HEALTH journal
 - [ ] Next paper summary
 
 :::
