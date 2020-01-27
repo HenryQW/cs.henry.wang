@@ -2,6 +2,50 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 14 Jan 2020
+
+<Meeting index="53" members="Bob, Wang" date="14 Jan 20 11:00" nextDate="28 Jan 2020 11:00">
+
+::: slot topic
+
+- Computer
+- Handling "other" numbers
+- Colorgorical
+
+:::
+
+::: slot prog
+
+- Alfie's role is conference co-chair
+- Next draft of survey
+- "other" numbers identified
+- Color legend next to number types
+- "measurement" instead of meta
+
+:::
+
+::: slot todo
+
+Software:
+
+- [x] Change color legend to squares
+- [x] Adopt Chao's color legends, check time-oriented cartograms figure 2 and figure 9
+- [ ] User option: show data samples (connect acutal dots to centroid with edges)
+- [ ] Update position of "other" numbers
+
+Survey:
+
+- [x] Bring a printed copy survey on trip to Nottingham
+- [x] Start including old EHR vis papers in survey from Rind et al.
+- [ ] Identify first EHR papers that combine Vis+ML and Vis+NLP
+- [x] Check out national institute for health and care excellence (NICE)
+- [ ] Start writing new section 3, 3.1, 3.2 on survey of EHR data
+- [x] Try to include public health wales in list of open data sources
+
+:::
+
+</Meeting>
+
 ## 6 Jan 2020
 
 <Meeting index="52" members="Bob, Wang" date="6 Jan 20 11:00" nextDate="14 Jan 2020 11:00">
@@ -57,10 +101,10 @@ Survey:
 - [ ] Upload all survey PDFs in online folder for easy access for Bob to view
 - [ ] Organize all survey PDFs into folders by technique
 - [x] Revisit table 4 and update it with table 3
-- [ ] Add a table: papers vs evaluation type
+- [x] Add a table: papers vs evaluation type
 - [ ] Add a table: single vs cohort, single vs multiple data sources
-- [ ] Look for more papers
-- [ ] Next paper summary
+- [x] Look for more papers
+- [x] Next paper summary
 
 :::
 
