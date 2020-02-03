@@ -2,6 +2,55 @@
 
 <!-- markdownlint-disable MD033 -->
 
+http://www.healthdata.org/gbd/publications
+
+## 28 Jan 2020
+
+<Meeting index="54" members="Bob, Mohammed, Wang" date="28 Jan 20 11:00" nextDate="4 Feb 2020 11:00">
+
+::: slot topic
+
+- Moving
+- Richart Roberts color map
+- Metaphors of movement - out of scope
+- Only include data and institutions that provide open access EHR data
+
+:::
+
+::: slot prog
+
+- House searching in Nottingham
+- Bob sends email about Wang's transfer and EPSRC grant transfer
+- Color legend changed to sqaures
+- Bob reviews survey
+- Next draft of survey
+- Context papers added
+- More images added to survey
+
+:::
+
+::: slot todo
+
+Software:
+
+- [x] Make sure color legend is changed
+- [ ] See TODO list from 14 Jan 2020
+
+Survey:
+
+- [ ] For each dataset includes: providing institution, URL, number of records/dimensions, time-span, short description and level of detail (group size)
+- [x] Update survey with color coding used by a previous survey
+- [ ] Update survey with rest of context papers
+- [x] Continue writing new sections 3, 3.1, 3.2 on survey of EHR data
+- [ ] Update visualization techniques table with groups for techniques
+
+:::
+
+- Review new papers found
+- Look at healthdata.org [The Global Burden of Disease(GBD)](http://www.healthdata.org/gbd/publications)
+
+</Meeting>
+
 ## 14 Jan 2020
 
 <Meeting index="53" members="Bob, Wang" date="14 Jan 20 11:00" nextDate="28 Jan 2020 11:00">
@@ -30,7 +79,7 @@ Software:
 
 - [x] Change color legend to squares
 - [x] Adopt Chao's color legends, check time-oriented cartograms figure 2 and figure 9
-- [ ] User option: show data samples (connect acutal dots to centroid with edges)
+- [ ] User option: show data samples (connect actual dots to centroid with edges)
 - [ ] Update position of "other" numbers
 
 Survey:
