@@ -34,13 +34,14 @@ module.exports = {
   locales: {
     "/zh/": {
       lang: "zh-CN",
-      title: "汪琪儒 (Henry)",
-      description: "研究助理，计算机系，斯旺西大学"
+      title: "汪琪儒",
+      description: "研究助理，计算机系，诺丁汉大学"
     },
     "/": {
       lang: "en-GB",
-      title: "Qiru Wang (Henry)",
-      description: "Research Associate, Computer Science, Swansea University"
+      title: "Qiru Wang",
+      description:
+        "Research Associate, Computer Science, University of Nottingham"
     }
   },
   dest: "./dist",
