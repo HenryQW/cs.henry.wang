@@ -48,6 +48,8 @@ CGVC:
 - [x] Try setting up CGVC facebook page
 - [x] Look into a FB feed for CGVC webpage
 
+:::
+
 </Meeting>
 
 ## 28 Jan 2020
