@@ -2,7 +2,53 @@
 
 <!-- markdownlint-disable MD033 -->
 
-http://www.healthdata.org/gbd/publications
+## 4 Feb 2020
+
+<Meeting index="55" members="Bob, Mohammed, Wang" date="4 Feb 20 11:00" nextDate="18 Feb 2020 11:00">
+
+::: slot topic
+
+- Frequence paper - maybe
+- City-Level Measures - data source
+- GBD
+- Healthcare Data Vis - yes
+- VisualDecisionLinc - no
+- Beyond simple charts - yes
+- AnamneVis - yes
+- Carroll Vis and analytics - related work
+- Data-driven healthcare - related work
+- A review of analytics - related work
+
+:::
+
+::: slot prog
+
+- CGVC 2020 website is looking good
+- New papers for survey
+- Data sets fir survey paper searched
+- Registered for data
+- Key definitions added to introduction
+
+:::
+
+::: slot todo
+
+Survey:
+
+- [ ] Add to data section: city-level measures
+- [x] Start organizing data sets into different categories: country of origin, size, number of dimensions, number of datasets, requires login or not, yea of publication, years-spanned, accessibility, derived publications: yes/no, level of detail, aggregate data provider: yes/no
+- [x] Check IEEE Vis conference websites for open data sets
+- [x] Have a look at Liam McNabb's thesis for definitions of Geo-Vis
+- [x] Include definitions of EMR, PHR
+
+CGVC:
+
+- [x] Add Alfie as conference co-chair of CGVC 2020
+- [ ] Add CGVC 2021 announcement to CGVC news
+- [x] Try setting up CGVC facebook page
+- [x] Look into a FB feed for CGVC webpage
+
+</Meeting>
 
 ## 28 Jan 2020
 
