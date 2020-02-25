@@ -2,6 +2,50 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 18 Feb 2020
+
+<Meeting index="56" members="Bob, Mohammed, Wang" date="18 Feb 20 11:00" nextDate="25 Feb 2020 11:00">
+
+::: slot topic
+
+- Google NGram Viewer
+- CGVC 2020
+- Digital Humanities Conference 2020
+- Short papers [100], [84], [83], [75], [66]
+
+:::
+
+::: slot prog
+
+- Next survey paper summary x2
+- Next draft of SoEHR
+- Next draft of datasets spreadsheet
+
+:::
+
+::: slot todo
+
+Survey:
+
+- [x] Bob review survey draft and summaries
+- [x] Look for a document, publication that describes the levels of anonymity for EHRs in SAIL database
+- [ ] New table: paper on y-axis, columns on x-axis: EHR Vis, PHR Vis, PopHR Vis
+- [x] Attempt to put key definitions in chronological order by year of first appearance: EHR, EMR, PHR, PopHR and cite the first papers that introduce the terms
+- [x] Include definition of BOS04 EHR if available
+- [x] Check Secondary analysis book for definitions and historical term information
+- [ ] Include Google NGram and Google Trends for key definitions and historical term information (EHR,EMR,PHR,PopHR) in introduction, acronyms and full terms.
+- [ ] Start classifying data sets - individual vs aggregate web sites, then sort in chronological order by year of publication/founded/launched
+- [x] A description of each data set should include: why it was started, who started it
+- [x] Update out-of-scope section to exclude basic bar, pie, bubble and line graphs
+- [x] Mention peer-review in in-scope
+- [x] Write first data set description
+- [x] Add number of derived publication to spreadsheet:0, 0-10, 10-50, 50-100, 100+
+- [ ] Plan on restarting software development
+
+:::
+
+</Meeting>
+
 ## 4 Feb 2020
 
 <Meeting index="55" members="Bob, Mohammed, Wang" date="4 Feb 20 11:00" nextDate="18 Feb 2020 11:00">
