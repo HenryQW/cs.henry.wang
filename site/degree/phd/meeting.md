@@ -2,6 +2,58 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 25 Feb 2020
+
+<Meeting index="57" members="Bob, Mohammed, Wang" date="25 Feb 20 11:00" nextDate="3 Mar 2020 11:00">
+
+::: slot topic
+
+- Early retirement
+
+:::
+
+::: slot prog
+
+- Bob reviews 2 paper summaries
+- Description added to dataset
+- More key definitions found
+- Secondary analysis book double-checked
+- Google trends and ngrams of EHR, EMR, PHR
+- Updates made to survey
+- Restarted software development
+- Color legend updated
+- Global centroids view updated
+
+:::
+
+::: slot todo
+
+- Use 2 alarms!
+
+Survey:
+
+- [x] Upload draft of survey once a week
+- [x] Make sure the why aspect of each dataset was collected, write to the website hosts if necessary
+- [x] What research question is the I2B2 dataset trying to answer?
+- [x] Try to make description "self-contained" - 2-3 sentence each
+- [x] Datasets need more detail: FAIR, I2B2, Tycho, PCORnet, MIMIC, City health dashboard, healthdata.gov
+- [ ] What kind of data is in each dataset?
+- [x] See if you can find any more information on the different levels of detail access to the SAIL databank
+- [x] Include historical information in "key definitions" section
+- [x] Classify datasets 1)individual, 2)aggregate, 3)then chronological
+- [x] Write the first dataset description for survey paper
+
+Software:
+
+- [ ] Take screenshots and screen capture demos to show software development progress
+- [ ] Highlight corresponding centroids in both global and thumbnail views
+- [x] Render all global centroids as context after clicking on focus centroid
+- [x] Connect global centroid with individual point using edges
+
+:::
+
+</Meeting>
+
 ## 18 Feb 2020
 
 <Meeting index="56" members="Bob, Mohammed, Wang" date="18 Feb 20 11:00" nextDate="25 Feb 2020 11:00">
@@ -194,7 +246,7 @@ Survey:
 ::: slot topic
 
 - Tables related to challenges are good
-- DVH*19 out of scope
+- DVH\*19 out of scope
 - ZCD19 -> ESS
 - CXR18 -> out of scope
 - Evaluation types: controlled user study (task-based), informal user study (likert scale), domain expert evaluation (open-ended), interview (systematic questions)
@@ -260,10 +312,10 @@ Survey:
 - Intro
 - Related work
 - Survey of EHR VIS <-- paper summaries
-    - NLP
-    - ML
-    - ESS
-    - Geo
+  - NLP
+  - ML
+  - ESS
+  - Geo
 - Meta-data: resource oriented vs patient oriented
 
 :::
@@ -301,11 +353,11 @@ Survey:
 - [x] Add a table of content to survey
 - [x] Put related work as section 2
 - [ ] Next draft of survey paper
-    - [x] New classification table
-    - [ ] Idea: Add column "user study/interview"
-    - [ ] Idea: Add column "Single patient vs cohort"
-    - [x] Possibly exclude chen2018sequence: Sequence Synopsis, dingen2018regression: RegressionExplorer
-    - [x] ACM HEALTH journal
+  - [x] New classification table
+  - [ ] Idea: Add column "user study/interview"
+  - [ ] Idea: Add column "Single patient vs cohort"
+  - [x] Possibly exclude chen2018sequence: Sequence Synopsis, dingen2018regression: RegressionExplorer
+  - [x] ACM HEALTH journal
 - [ ] Next paper summary
 
 :::
@@ -332,8 +384,8 @@ Survey:
 CGVC:
 
 - [x] Email Franck, Rita and Alfie the new CGVC website and ask for feedback (CC:Bob)
-    - [x] Correct the venue information (Rita)
-    - [x] Remove the dragon logo (Franck)
+  - [x] Correct the venue information (Rita)
+  - [x] Remove the dragon logo (Franck)
 - [x] Add logistics of how to access CGVC website to the README file
 
 Software:
@@ -547,13 +599,13 @@ CGVC:
 - [x] Tong has 3 papers (87, 88, 96 on Bob's publication page)
 - [x] Add Public Health England and Project Tycho to the list of public datasets
 - [x] CGVC website
-    - [x] Match EG and EGUK logo sizes
-    - [x] Add the dragon logo
-    - [x] Add CGVC 2018 in original format
-    - [x] Make external links to be opened in a new tab
-    - [x] Add important dates up to month+year
-    - [x] Next version of menu with reorganization
-    - [x] Add CGVC 2018 proceedings
+  - [x] Match EG and EGUK logo sizes
+  - [x] Add the dragon logo
+  - [x] Add CGVC 2018 in original format
+  - [x] Make external links to be opened in a new tab
+  - [x] Add important dates up to month+year
+  - [x] Next version of menu with reorganization
+  - [x] Add CGVC 2018 proceedings
 
 :::
 
@@ -609,10 +661,10 @@ CGVC:
 - [ ] Discuss innovative ways for sorting documents with Bob
 - [x] Next paper summary
 - [ ] Discuss next paper summary with Bob:
-    - NLPReViz
-        - [Website and video](https://nlpreviz.github.io)
-        - [Paper](https://share.henry.wang/weU92P/Zhm5iXYcbK+)
-    - [Natural language processing of symptoms documented in free-text narratives of electronic health records: a systematic review](https://share.henry.wang/EIo2wh/snRpftwKPq+)
+  - NLPReViz
+    - [Website and video](https://nlpreviz.github.io)
+    - [Paper](https://share.henry.wang/weU92P/Zhm5iXYcbK+)
+  - [Natural language processing of symptoms documented in free-text narratives of electronic health records: a systematic review](https://share.henry.wang/EIo2wh/snRpftwKPq+)
 
 :::
 
@@ -647,10 +699,10 @@ CGVC:
 
 - [x] Choose a camcorder + microphone for Bob
 - [ ] Create subsections a list of papers that
-    - [x] Use machine learning (ML)
-    - [x] Use natural language processing (NLP)
-    - [x] Use event sequence (ES)
-    - [ ] Others
+  - [x] Use machine learning (ML)
+  - [x] Use natural language processing (NLP)
+  - [x] Use event sequence (ES)
+  - [ ] Others
 - [x] Create a new table - paper on y-axis, ML, NLP, ES and others on x-axis
 - [x] Abort symmetric scrolling for now - remove Detail View scrolling
 - [x] Change background color of non-focus Thumbnail View to grey
@@ -666,8 +718,8 @@ CGVC:
 - [x] Ask Franck for history URLs to previous CGVC conferences
 - [x] Next paper summary
 - [x] Discuss next paper summary with Bob:
-    - T. Gschwandtner. Visualization of patient data and treatment plans: A survey. Asgaard-TR-2009-1. Technical report, Vienna University of Technology, Institute of Software Technology and Interactive Systems, 2009
-    - CareVis(2006) and CareCruiser
+  - T. Gschwandtner. Visualization of patient data and treatment plans: A survey. Asgaard-TR-2009-1. Technical report, Vienna University of Technology, Institute of Software Technology and Interactive Systems, 2009
+  - CareVis(2006) and CareCruiser
 
 :::
 
@@ -700,11 +752,11 @@ CGVC:
 - [x] Try adding an empty letter to handle boundary condition at the end of scrolling
 - [ ] Make scrolling symmetric
 - [ ] Use 10 letters as your default number of documents
-- [X] Fit 1st page of detail view on screen without scrolling
+- [x] Fit 1st page of detail view on screen without scrolling
 - [x] Use original letters to derive an average number of lines per page
-- [X] Print out description of overview table
+- [x] Print out description of overview table
 - [x] Expand description of UMLS - who uses it? Where does it originate? How old is it? Why was it created?
-- [X] Compare UMLS with SNOMED
+- [x] Compare UMLS with SNOMED
 - [x] Next paper summary
 
 :::
@@ -1224,7 +1276,7 @@ CGVC:
 
 ::: slot topic
 
-- NY Times data: 1987-2007, 3.3 GB, $300
+- NY Times data: 1987-2007, 3.3 GB, \$300
 - College of Science Doctoral Training Center
 - ngrest
 - Owen Pearson, Robert Powell, visible lunch on 4th July
@@ -1280,13 +1332,13 @@ CGVC:
 ::: slot todo
 
 - [x] Copy 2017 VIS usb stick and look for relevant papers
-    - [Equity Monitor: Visualizing Attributes of Health Inequity in Atlanta](http://xiaoxuezhang.info/health_viz_project/)
+  - [Equity Monitor: Visualizing Attributes of Health Inequity in Atlanta](http://xiaoxuezhang.info/health_viz_project/)
 - [ ] Histogram of population by age in 1 year intervals
 - [ ] Screen capture dashboard overview of SAIL databank
 - [x] Highlight lines with numbers: web-based frontend and c++ server end - use 200 letters as input (use QT libraries)
 - [x] Next draft of west15 summary
 - [x] Next draft of rind11 summary
-    - You may need to add diagrams for classification
+  - You may need to add diagrams for classification
 - [x] Lowri ext 2369 for PDR
 - [x] Apply for PhD
 
@@ -1316,31 +1368,31 @@ CGVC:
 
 - [x] Print out survey paper summary for Bob to review
 - [x] Add the followings to survey paper summary:
-    - [x] Classification
-    - [x] Future Challenges
-    - [x] Unsolved Problems
-    - [x] Papers Cited
-    - [x] Years Spanned
+  - [x] Classification
+  - [x] Future Challenges
+  - [x] Unsolved Problems
+  - [x] Papers Cited
+  - [x] Years Spanned
 - [x] Follow Bob's file naming convention: surname of first author, year, first significant word of title (eg: laramee2011interactive)
-- [X] Summarize West et.al 2014
+- [x] Summarize West et.al 2014
 - [x] Copy Vis 2018 USB and look for related papers on EHR vis
 - [x] Look at the following papers:
-    - **bernard2019dashboard**, Using dashboard networks to visualize multiple patient histories
-    - **kwon2019retain**, RetainVis: Visual Analytics with Interpretable and Interactive Recurrent Neural Networks on Electronic Medical Records
-    - **mccurdy2019framework**, A framework for externalizing implicit error using visualization
+  - **bernard2019dashboard**, Using dashboard networks to visualize multiple patient histories
+  - **kwon2019retain**, RetainVis: Visual Analytics with Interpretable and Interactive Recurrent Neural Networks on Electronic Medical Records
+  - **mccurdy2019framework**, A framework for externalizing implicit error using visualization
 - [x] Histogram of population by age in 1 year intervals [Live Demo](https://healthvis.henry.wang/#/histogram)
 - [x] User option: highlight "numbers" for MedGate [Live Demo](https://healthvis.henry.wang/#/markup)
 - Draft a list of interview questions for EHR domain experts
-    1. Please provide a brief description of your job.
-    1. What general topic area(s) does your research(s) cover?
-    1. What are your research objectives?
-    1. Do you have any hypotheses? What are your unsolved problems?
-    1. What general types of dataset are common in your research (e.g. numerical data, text documents, images, etc.)?
-    1. On average, what is the size of dataset do you generally work with? (e.g. 5,000 rows of CSV, 3,000 images, etc.)
-    1. What methods do you use to analyse the data (e.g. statistical, excel, document analysis tools, etc.)?
-    1. What methods or tools do you use to get the “bigger picture” about your collections of results?
-    1. What are the areas of improvement you'd like to see in the tools you use for your research(s) (e.g. data processing speed, interactive functions, user-friendliness etc.)?
-    1. If you could find out anything in your research(s), what would that be?
+  1. Please provide a brief description of your job.
+  1. What general topic area(s) does your research(s) cover?
+  1. What are your research objectives?
+  1. Do you have any hypotheses? What are your unsolved problems?
+  1. What general types of dataset are common in your research (e.g. numerical data, text documents, images, etc.)?
+  1. On average, what is the size of dataset do you generally work with? (e.g. 5,000 rows of CSV, 3,000 images, etc.)
+  1. What methods do you use to analyse the data (e.g. statistical, excel, document analysis tools, etc.)?
+  1. What methods or tools do you use to get the “bigger picture” about your collections of results?
+  1. What are the areas of improvement you'd like to see in the tools you use for your research(s) (e.g. data processing speed, interactive functions, user-friendliness etc.)?
+  1. If you could find out anything in your research(s), what would that be?
 
 :::
 
@@ -1387,17 +1439,19 @@ CGVC:
 ::: slot todoProg
 
 - Interview papers on HealthVis ([download all](https://share.henry.wang/Cog0Gx/OMk965gfM3+)):
-    1. [Zakkar2017](https://share.henry.wang/tBKUcP/n9qpRDZ4N1+): 7 domain experts, knowledge gaps
-    1. [Rind2010](https://share.henry.wang/1pVAjO/obEaY8j4mP+): 5 physicians, software requirement gathering
-    1. [Menger2016](https://share.henry.wang/c8IhNd/tKAEPMfg3P+): 19 expert sessions, cross industry collaboration
-    1. [Robinson2009](https://share.henry.wang/FBJDBP/7qOiF85hr3+): 8 analysts, comes with interview questions
-    1. [Ahn2014](https://share.henry.wang/d0psFX/2rhzroiXAB+), which is APS14 from SoS: 12 experts, not on HealthVis though
+
+  1. [Zakkar2017](https://share.henry.wang/tBKUcP/n9qpRDZ4N1+): 7 domain experts, knowledge gaps
+  1. [Rind2010](https://share.henry.wang/1pVAjO/obEaY8j4mP+): 5 physicians, software requirement gathering
+  1. [Menger2016](https://share.henry.wang/c8IhNd/tKAEPMfg3P+): 19 expert sessions, cross industry collaboration
+  1. [Robinson2009](https://share.henry.wang/FBJDBP/7qOiF85hr3+): 8 analysts, comes with interview questions
+  1. [Ahn2014](https://share.henry.wang/d0psFX/2rhzroiXAB+), which is APS14 from SoS: 12 experts, not on HealthVis though
 
 - Recent EHR survey papers:
-    1. [West2015](https://share.henry.wang/9lUBUK/qByGMWZ9RJ+)
+
+  1. [West2015](https://share.henry.wang/9lUBUK/qByGMWZ9RJ+)
 
 - Recent EHR paper:
-    1. [Rogers2018](https://share.henry.wang/NAx8OS/3um69xtMPR+)
+  1. [Rogers2018](https://share.henry.wang/NAx8OS/3um69xtMPR+)
 
 :::
 
@@ -1451,21 +1505,21 @@ CGVC:
 - Qt and OpenGL set up, tried some demos, starting on [Qt with OpenGL](https://www.trentreed.net/topics/qt-framework/)
 - Chapter 1 of CQT Book read
 - Survey papers on HealthVis:
-    - [Rind2011a](http://www.cs.umd.edu/hcil/trs/2010-19/2010-19.pdf): reviews existing EHR Vis systems, leads to 6 other survey papers
+  - [Rind2011a](http://www.cs.umd.edu/hcil/trs/2010-19/2010-19.pdf): reviews existing EHR Vis systems, leads to 6 other survey papers
 - Books on HealthVis:
-    - [Healthcare Data Analytics](https://www.amazon.com/Healthcare-Analytics-Chapman-Knowledge-Discovery/dp/1482232111)
-    - Most of the books mention on DataVis briefly, focus more on data analytics, mining, machine learning etc.
+  - [Healthcare Data Analytics](https://www.amazon.com/Healthcare-Analytics-Chapman-Knowledge-Discovery/dp/1482232111)
+  - Most of the books mention on DataVis briefly, focus more on data analytics, mining, machine learning etc.
 - Interview questions are still WIP, found some [examples](http://www.personal.psu.edu/acr181/IV09.pdf) from Robinson2009
 - Possible project direction:
-    - A dashboard with widgets/sections for visualising different diseases/conditions for patients
-    - Make use of SAIL’s data, and its close contacts with domain experts
+  - A dashboard with widgets/sections for visualising different diseases/conditions for patients
+  - Make use of SAIL’s data, and its close contacts with domain experts
 - KKC14 and APS 14 from SoS read
 - Interesting findings:
-    - A gallery of HealthVis: [vizhealth](http://www.vizhealth.org/gallery/)
-    - Ben Shneiderman wins again
-    - [David Borland](https://renci.org/staff/david-borland/), University of North Carolina at Chapel Hill, has many HealthVis-related papers:
-        - [West2015](http://www.ncbi.nlm.nih.gov/pubmed/25336597)
-        - [Gotz2016](https://ieeexplore.ieee.org/document/7466736/)
+  - A gallery of HealthVis: [vizhealth](http://www.vizhealth.org/gallery/)
+  - Ben Shneiderman wins again
+  - [David Borland](https://renci.org/staff/david-borland/), University of North Carolina at Chapel Hill, has many HealthVis-related papers:
+    - [West2015](http://www.ncbi.nlm.nih.gov/pubmed/25336597)
+    - [Gotz2016](https://ieeexplore.ieee.org/document/7466736/)
 
 :::
 
@@ -1478,10 +1532,10 @@ CGVC:
 ::: slot topic
 
 - Project partners:
-    - We Predict
-    - Digital Health Labs
-    - Health Economics Outcomes Research (HEOR)
-    - Connected Health Cities
+  - We Predict
+  - Digital Health Labs
+  - Health Economics Outcomes Research (HEOR)
+  - Connected Health Cities
 - Meeting schedule
 
 :::
