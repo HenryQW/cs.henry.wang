@@ -2,6 +2,49 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 17 Mar 2020
+
+<Meeting index="60" members="Bob, Mohammed, Wang" date="17 Mar 20 11:00" nextDate="24 Mar 2020 11:00">
+
+::: slot topic
+
+- Narrative Visualization: Telling Stories with Data - good example of 2 bibliographies
+- Atom habits - the hunchback of notre dame
+- The black swan
+
+:::
+
+::: slot prog
+
+- Bob enrolls Wang in PhD program
+- Bob starts reviewing next draft of survey
+- Bob finds a new related survey
+- CGVC webpage updated
+- Spreadsheet of lost time collected = 42 days
+- 3 datasets from VAST challenge found
+- New table of paper on y-axis, x-axis: term used, dataset size/number of records, dataset level of detail, data source (Terminology Table)
+- First draft od data set cope and search methodology
+
+:::
+
+::: slot todo
+
+- [x] Set reminder on phone for Mohammed's meetings
+- [x] Both: look at related health vis survey - Bob print it out
+- [ ] Add comparison of related survey to related work section
+- [x] Try to get your PhD back on track - try to work full time on you PhD
+- [x] Start writing "out of dataset scope" sub-section include VAST challenge 2011 mini 1, 2010 mini 3
+- [x] Double check other VAST challenge open datasets
+- [x] Add a column to the terminology table: VIS community
+- [x] Include search engines you used in dataset search
+- [x] Include websites with datasets - link data.gov, data.gov.uk
+- [x] 3.3 scope to data cope
+- [x] See TODO from 3 March
+
+:::
+
+</Meeting>
+
 ## 10 Mar 2020
 
 <Meeting index="59" members="Bob, Wang" date="10 Mar 20 11:00" nextDate="17 Mar 2020 11:00">
@@ -69,9 +112,9 @@ Survey:
 
 Software:
 
-- [ ] User option: render thumbnail points as greyscale context points in global view
-- [ ] User option: thumbnail points are connected with edges in global view as context (greyscale) edges
-- [ ] Highlight corresponding centroids in both global and thumbnail views
+- [x] User option: render thumbnail points as greyscale context points in global view
+- [x] User option: thumbnail points are connected with edges in global view as context (greyscale) edges
+- [x] Highlight corresponding centroids in both global and thumbnail views
 
 :::
 
@@ -121,7 +164,7 @@ Survey:
 Software:
 
 - [ ] Take screenshots and screen capture demos to show software development progress
-- [ ] Highlight corresponding centroids in both global and thumbnail views
+- [x] Highlight corresponding centroids in both global and thumbnail views
 - [x] Render all global centroids as context after clicking on focus centroid
 - [x] Connect global centroid with individual point using edges
 
