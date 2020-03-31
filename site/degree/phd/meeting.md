@@ -2,6 +2,53 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 24 Mar 2020
+
+<Meeting index="61" members="Bob, Mohammed, Wang" date="24 Mar 20 11:00" nextDate="31 Mar 2020 11:00">
+
+::: slot topic
+
+- Zoom
+- European Data Portal
+- Sopan et al "community health map..." -- yes
+- Glicksberg et al "PatientExplorerR..." -- yes
+- "EHDViz..." -- out of scope
+- "Visualization collaborative ..." -- out of scope, because it uses off-the-shelf tools rather than developing a customized solution
+
+:::
+
+::: slot prog
+
+- Started writing out-of-scope datasets section
+- Further searching for related EHR datasets
+- Next draft of survey
+- Update Terminology Table - columns A, F, G
+- User option: render thumbnail points as greyscale context points in global view
+
+:::
+
+::: slot todo
+
+- [ ] Bob has a look at related health vis survey
+- [x] Add summary of related health vis survey to our survey and describe the differences
+- [x] Add German dataset to data "out of scope" section - should be international dataset, accessibility
+- [x] Add closed access datasets to data "out of scope" section
+- [ ] Bob reviews SoEHR survey draft
+- [x] Put datasets that require an access fee in their own category - these are not the focus datasets
+- [x] Draft data classification sub-section: see table on reverse
+- [x] Next survey paper summary
+- [x] I encourage citing extra papers in out of scope section
+- [x] Put key definitions in its own section 2 for now
+- [x] Try adding terminology table to background section columns A, F, G
+
+Software:
+
+- [x] Add rendering option for GUI organized as focus and context options
+
+:::
+
+</Meeting>
+
 ## 17 Mar 2020
 
 <Meeting index="60" members="Bob, Mohammed, Wang" date="17 Mar 20 11:00" nextDate="24 Mar 2020 11:00">
