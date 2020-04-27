@@ -2,6 +2,63 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 21 Apr 2020
+
+<Meeting index="65" members="Bob, Mohammed, Wang" date="21 Apr 20 11:00" nextDate="28 Apr 2020 11:00">
+
+::: slot topic
+
+- Alonso 2012 - focus
+- Driscoll 2011 - focus
+- Ramirez 2012 - focus
+- Kazywinski 2016 - no, not EHR
+- Malik 2014 - focus
+- Gotz 2011 - focus
+- Steenwijk 2010 - no, add to out-of-scope section with clarification
+- Naumova 2010 - no, not EHR
+- Kumasaka 2010 - no, not EHR
+- Perer 2012 - no software
+- Rajwan 2013 - no software
+- Rind 2010 - context
+
+:::
+
+::: slot prog
+
+- Next draft of survey
+- Bob reviews papers
+- Updates to CGVC website
+
+:::
+
+::: slot todo
+
+Survey:
+
+- [x] Show authors in Bibliography
+- [x] Shorten names in table 3
+- [x] 3.1 related work with a focus on visualization
+- [x] 3.2 related work with a focus on EHR
+- [ ] For each related survey, states explicitly number of overlapping focus papers, context papers, out-of-scope papers
+
+Software:
+
+- [x] Divide time between paper and software
+- [x] User options: search function
+- [x] CC Bob in all communication with Arron
+- [x] User options: click on centroid in global view - show corresponding edges in both views
+
+CGVC:
+
+- [x] New menu tab "For sponsors"
+- [x] Email Franck and Martin about CGVC 2021
+- [x] Show either "about" or "CfP" on CGVC 2020 homepage
+- [x] Add "TBA" to program page
+
+:::
+
+</Meeting>
+
 ## 14 Apr 2020
 
 <Meeting index="64" members="Bob, Mohammed, Wang" date="14 Apr 20 11:00" nextDate="21 Apr 2020 11:00">
