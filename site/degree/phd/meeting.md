@@ -2,6 +2,75 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 28 Apr 2020
+
+<Meeting index="66" members="Bob, Mohammed, Wang" date="28 Apr 20 11:00" nextDate="5 Apr 2020 11:00">
+
+::: slot topic
+
+- A tool to find patterns and trends
+- Swansea Bay health board
+- Dashbords
+- Visualizing disagreements eg: dosages
+- Pregnancy vs sodium valproate
+- Covid NLP challenge - what symptoms are associated with covid
+- Most prevalent drugs
+- Drugs associated with pregnancy
+- UCI repository
+- Affirmed diagnosis of epilepsy
+- Seizure frequency over time vs dosage
+- Drugs work best on epilepsy
+- Drugs over time for serizures
+- Users are clinicians
+- PhenoBloacks - keep in survey
+- Idea: assigning an importance to numbers
+- Idea: showing postcodes on map
+
+:::
+
+::: slot prog
+
+- Meeting with Arron set up
+- Revisions to CGVC webpage
+- Clicking on centroid in global view brings up corresponding edges in thumbnail view
+- Search function
+- User option: undo
+- Input any text file
+- Dylan proofreading survey
+- 3 new tables: focus, context, out of scope for papers in previous surveys
+- 6 surveys reviewed for previous work
+- Revisit table 6 - "A" exclusion criteria
+- Relevancy -> off topic
+
+:::
+
+::: slot todo
+
+Survey:
+
+- [x] Add kaggle to survey
+- [ ] Send Arron a copy of survey and ask for suggested improvements and Owen Pickrell
+- [x] Check out "London Medical Databases" (no longer available) and "POSSUM" (not free, \$300/year)
+- [x] Total without duplications -> Total unique papers
+
+Software:
+
+- [x] Ask Arron for synthetic letters
+- [x] Combinations of search terms
+- [x] Try "AND" and "OR" combinations of search terms
+- [x] User option: dark mode
+- [x] Test out software on synthetic letters
+- [ ] Download and present some of the Covid data, look for EHR data - look for letters on kaggle
+
+CGVC:
+
+- [x] Ask Tom Kelly on CGVC 2021
+- [x] Add CGVC 2021 to website
+
+:::
+
+</Meeting>
+
 ## 21 Apr 2020
 
 <Meeting index="65" members="Bob, Mohammed, Wang" date="21 Apr 20 11:00" nextDate="28 Apr 2020 11:00">
