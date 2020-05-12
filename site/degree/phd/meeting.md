@@ -2,6 +2,59 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 5 May 2020
+
+<Meeting index="67" members="Bob, Mohammed, Wang" date="5 May 2020 11:00" nextDate="12 May 2020 11:00">
+
+::: slot topic
+
+- EHR with a focus on text
+- Klimov et al - out
+- Category for advanced query systems (Idea)
+- Vorograph - out (not EHR)
+- Metaphors of movement - out (not advanced Vis)
+- Kaggle data
+- Bob's landlord
+
+:::
+
+::: slot prog
+
+- 10 synthetic letters from Arron
+- Screen capture demo for Arron
+- Search function with AND and OR logical operators
+- Dark mode
+- Bob records feedback session with Arron and achieves on YouTube
+- Updated CGVC website
+- Dylan finishes proof-reading
+
+:::
+
+::: slot todo
+
+Survey:
+
+- [x] Ask Dylan about proof-reading
+- [x] Add "Clinical decision support" to terminology section
+- [x] Update the ToC to include EHR and PopHR
+- [x] Add "PopHR" in front of paper summaries that focus on PopHR
+- [x] Update Table 10 with color-mapping
+- [ ] Add "advanced query interfaces" to out-of-scope section for papers that have them but with basic visual design elements
+- [x] Annotate Covid databases with "C" sub/superscript
+
+Software:
+
+- [x] Send screen capture to Bob
+- [ ] Clickable search elements
+- [ ] Combine search terms with number category
+- [ ] Connect global and thumbnail centroids of multiple search terms
+- [ ] "DOSAGE" in all caps means search for that number category
+- [x] Drag and drop re-ordering of numbers in legend for importance ranking
+
+:::
+
+</Meeting>
+
 ## 28 Apr 2020
 
 <Meeting index="66" members="Bob, Mohammed, Wang" date="28 Apr 20 11:00" nextDate="5 Apr 2020 11:00">
