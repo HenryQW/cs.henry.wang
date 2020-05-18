@@ -2,6 +2,56 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 12 May 2020
+
+<Meeting index="68" members="Bob, Mohammed, Wang" date="12 May 2020 11:00" nextDate="19 May 2020 11:00">
+
+::: slot topic
+
+- Example queries: epilepsy AND dosage
+- Depression AND dosage
+- And then sort by date
+- Epilepsy AND frequency
+- Epilepsy AND dosage AND frequency
+- Zhao Gend
+
+:::
+
+::: slot prog
+
+- Next draft od survey
+- Dylan proofreads survey
+- Continues work on search functionality
+- Reorder-able color legend
+
+:::
+
+::: slot todo
+
+Survey:
+
+- [x] Update CDSS definition, update section 6
+- [x] Subdivide related work section
+- [x] Subdivide 1.4 into 1.4.1 In scope + 1.4.2 Out-of-scope
+- [x] Add labels to out-of-scope subsections
+- [x] Add "image processing" to out-of-scope subsection
+- [ ] New table: open access datasets on y-axis, visual design on x-axis: bar/line chart, choropleth etc.
+
+Software:
+
+- [x] Two legends: 1) for number categories, 2) user-defined serach terms
+- [ ] Menu between user defined search (AND, OR, NOT logical operators)
+- [x] Refer to colorbrewer for grey-scale color legend
+- [x] Search queries search all letters
+
+CGVC:
+
+- [x] Publicly available stats for CGVC website? (currently not possible)
+
+:::
+
+</Meeting>
+
 ## 5 May 2020
 
 <Meeting index="67" members="Bob, Mohammed, Wang" date="5 May 2020 11:00" nextDate="12 May 2020 11:00">
