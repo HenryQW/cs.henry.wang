@@ -1,22 +1,14 @@
-## 5 May 2020
+## 19 May 2020
 
-<Meeting index="68" members="Bob, Mohammed, Wang" date="12 May 2020 11:00" nextDate="19 May 2020 11:00">
+<Meeting index="69" members="Bob, Mohammed, Wang" date="19 May 2020 11:00" nextDate="2 June 2020 11:00">
 
 ::: slot topic
-
-## -
-
-## -
 
 -
 
 :::
 
 ::: slot prog
-
-## -
-
-## -
 
 -
 

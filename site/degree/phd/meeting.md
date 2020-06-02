@@ -2,6 +2,46 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 19 May 2020
+
+<Meeting index="69" members="Bob, Mohammed, Wang" date="19 May 2020 11:00" nextDate="2 June 2020 11:00">
+
+::: slot topic
+
+- 9 May, BKNG $1430.83, Bob bets $2860 by 8 May 2021
+- Digital health records -DHR
+- Zhao Geng
+- Idea: geospatial view using postcodes
+
+:::
+
+::: slot prog
+
+- Next draft of survye
+- New search legend
+- Greyscale color legend
+- Bob resubmitted grant extension
+
+:::
+
+::: slot todo
+
+- [x] Keep your eye on PhD enrolment with financial support, make sure CC Bob and Matt
+- Bob review next draft of survey
+- Have a look at EuroVis presentations
+
+Software:
+
+- [ ] Test out new search with multiple documents including edges
+- [x] Test "epilepsy AND mg" on 200 documents with centroids and edges
+- [x] Test "Migraine AND mg"
+- [x] Test "(epilepsy OR migraine) AND mg"
+- [x] Double-check "years" number category
+
+:::
+
+</Meeting>
+
 ## 12 May 2020
 
 <Meeting index="68" members="Bob, Mohammed, Wang" date="12 May 2020 11:00" nextDate="19 May 2020 11:00">
@@ -13,7 +53,7 @@
 - And then sort by date
 - Epilepsy AND frequency
 - Epilepsy AND dosage AND frequency
-- Zhao Gend
+- Zhao Geng
 
 :::
 
