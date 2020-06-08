@@ -2,6 +2,51 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 2 June 2020
+
+<Meeting index="70" members="Bob, Mohammed, Wang" date="2 June 2020 11:00" nextDate="9 June 2020 11:00">
+
+::: slot topic
+
+- LiquidText
+- Notability
+- Goodnotes
+- NET FSLY infrastructure
+- Idea: interaction with graph to modify search query
+- Idea: multiple searches and multiple graphs
+
+:::
+
+::: slot prog
+
+- Bob reviews survey draft
+- Survey edits
+- User options: AND, OR, NOT
+- Drag-and-drop color legend categories and searching
+- Double-checked "year" category
+
+:::
+
+::: slot todo
+
+Survey:
+
+- [x] Next draft
+- [x] Subdivided related work into vis and Non-vis focus
+- [x] Write up speciality and open access datasets
+
+Software:
+
+- [x] Dosage are all assigned same color (category search)
+- [x] Thumbnails also show centroids in the cases of multiple matches
+- [x] Directed edge from first search term to second term
+- [x] Limit search to one "OR" for now
+- [x] Keep a list of search query history
+
+:::
+
+</Meeting>
+
 ## 19 May 2020
 
 <Meeting index="69" members="Bob, Mohammed, Wang" date="19 May 2020 11:00" nextDate="2 June 2020 11:00">
