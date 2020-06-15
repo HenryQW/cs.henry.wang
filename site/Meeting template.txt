@@ -1,6 +1,6 @@
-## 2 June 2020
+## 9 June 2020
 
-<Meeting index="70" members="Bob, Mohammed, Wang" date="2 June 2020 11:00" nextDate="9 June 2020 11:00">
+<Meeting index="71" members="Bob, Mohammed, Wang" date="9 June 2020 11:00" nextDate="16 June 2020 11:00">
 
 ::: slot topic
 

@@ -2,6 +2,46 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 9 June 2020
+
+<Meeting index="71" members="Bob, Mohammed, Wang" date="9 June 2020 11:00" nextDate="16 June 2020 11:00">
+
+::: slot topic
+
+- Survey
+- Data vis resources
+
+:::
+
+::: slot prog
+
+- Show and hide settings user option
+- Directed edges
+- Queries saved in a list
+
+:::
+
+::: slot todo
+
+- [x] Look for software collection to add to vis resources
+
+Survey:
+
+- [x] Update table 4 with CDS
+- [x] Add a description of how you describe each dataset: who, when, why, size, what data attribute examples
+
+Software:
+
+- [x] On mouse over for global centroids showing search term
+- [x] On mouse over for global edges showing search term
+- [x] Show colored arrow button direction in query list
+- [x] User option: show edges in thumbnail view
+- [x] Bug fixes and code refactoring
+
+:::
+
+</Meeting>
+
 ## 2 June 2020
 
 <Meeting index="70" members="Bob, Mohammed, Wang" date="2 June 2020 11:00" nextDate="9 June 2020 11:00">
