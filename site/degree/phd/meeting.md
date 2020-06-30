@@ -2,6 +2,48 @@
 
 <!-- markdownlint-disable MD033 -->
 
+## 23 June 2020
+
+<Meeting index="73" members="Bob, Mohammed, Wang" date="16 June 2020 11:00" nextDate="30 June 2020 11:00">
+
+::: slot topic
+
+- Vis resources paper
+
+:::
+
+::: slot prog
+
+- Spreadsheet of future challenges
+- Update to Table 9 on evaluation + description
+- Missing edge bug fixed
+- User option: search mode
+- Years 1970-2020 are found
+- Asked Arron for appointment
+
+:::
+
+::: slot todo
+
+Survey:
+
+- [x] Add page numbers to ToC
+- [x] Add future work challenges table to survey paper
+- [x] Borland et al 2014 copy into PopHR section with an additional sentence about no geo-space
+- [x] IHM15 put in data section + add a URL
+- [x] Mention Table 3 in challenges and future work section
+- [x] Mention Section 7 on data in both the challenges and future work sections
+- [x] Update Table 8 with new paper categories
+
+Software:
+
+- [x] Add some pre-defined searches, eg "Epilepsy and DOSAGE", "AGE and DOSAGE"
+- [x] User option: running multiple queries in parallel
+
+:::
+
+</Meeting>
+
 ## 16 June 2020
 
 <Meeting index="72" members="Bob, Mohammed, Wang" date="16 June 2020 11:00" nextDate="23 June 2020 11:00">
