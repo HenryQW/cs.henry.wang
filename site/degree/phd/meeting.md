@@ -2,7 +2,46 @@
 
 <!-- markdownlint-disable MD033 -->
 
-## 23 June 2020
+<Meeting index="74" members="Bob, Mohammed, Wang" date="30 June 2020 11:00" nextDate="7 July 2020 11:00">
+
+::: slot topic
+
+- Visa
+- Phil Quinlan
+
+:::
+
+::: slot prog
+
+- Next draft of survey: future work challenge table
+- Bob writes to Phil Quinlan about healthcare data vis project
+- Bob writes to Arron about meeting
+- Bob writes to Denise Smith about furlough
+- User option: search mode
+- Pre-defined queries
+- Click and drag "AND OR NOT"
+
+:::
+
+::: slot todo
+
+Survey:
+
+- [ ] Bob review next draft of survey
+- [x] Mention split reference in introduction
+
+Software:
+
+- [ ] Try a video recorded software demo
+- [ ] Investigate the use of click-and-drag from graph-based query
+- [x] Add an ON/OFF cross (x) next to individual queries to turn them on and off
+- [x] Add search history alongside color legend (and pre-defined queries)
+- [x] Swap "sorting options" with "search options"
+- [x] Integrate "search legend" into the search query history
+
+:::
+
+</Meeting>
 
 <Meeting index="73" members="Bob, Mohammed, Wang" date="16 June 2020 11:00" nextDate="30 June 2020 11:00">
 
@@ -43,8 +82,6 @@ Software:
 :::
 
 </Meeting>
-
-## 16 June 2020
 
 <Meeting index="72" members="Bob, Mohammed, Wang" date="16 June 2020 11:00" nextDate="23 June 2020 11:00">
 
@@ -92,8 +129,6 @@ Software:
 
 </Meeting>
 
-## 9 June 2020
-
 <Meeting index="71" members="Bob, Mohammed, Wang" date="9 June 2020 11:00" nextDate="16 June 2020 11:00">
 
 ::: slot topic
@@ -131,8 +166,6 @@ Software:
 :::
 
 </Meeting>
-
-## 2 June 2020
 
 <Meeting index="70" members="Bob, Mohammed, Wang" date="2 June 2020 11:00" nextDate="9 June 2020 11:00">
 
@@ -177,8 +210,6 @@ Software:
 
 </Meeting>
 
-## 19 May 2020
-
 <Meeting index="69" members="Bob, Mohammed, Wang" date="19 May 2020 11:00" nextDate="2 June 2020 11:00">
 
 ::: slot topic
@@ -216,8 +247,6 @@ Software:
 :::
 
 </Meeting>
-
-## 12 May 2020
 
 <Meeting index="68" members="Bob, Mohammed, Wang" date="12 May 2020 11:00" nextDate="19 May 2020 11:00">
 
@@ -266,8 +295,6 @@ CGVC:
 :::
 
 </Meeting>
-
-## 5 May 2020
 
 <Meeting index="67" members="Bob, Mohammed, Wang" date="5 May 2020 11:00" nextDate="12 May 2020 11:00">
 
@@ -319,8 +346,6 @@ Software:
 :::
 
 </Meeting>
-
-## 28 Apr 2020
 
 <Meeting index="66" members="Bob, Mohammed, Wang" date="28 Apr 20 11:00" nextDate="5 Apr 2020 11:00">
 
@@ -389,8 +414,6 @@ CGVC:
 
 </Meeting>
 
-## 21 Apr 2020
-
 <Meeting index="65" members="Bob, Mohammed, Wang" date="21 Apr 20 11:00" nextDate="28 Apr 2020 11:00">
 
 ::: slot topic
@@ -446,8 +469,6 @@ CGVC:
 
 </Meeting>
 
-## 14 Apr 2020
-
 <Meeting index="64" members="Bob, Mohammed, Wang" date="14 Apr 20 11:00" nextDate="21 Apr 2020 11:00">
 
 ::: slot topic
@@ -491,8 +512,6 @@ CGVC:
 
 </Meeting>
 
-## 7 Apr 2020
-
 <Meeting index="63" members="Bob, Mohammed, Wang" date="7 Apr 20 11:00" nextDate="14 Apr 2020 11:00">
 
 ::: slot topic
@@ -528,8 +547,6 @@ Software:
 
 </Meeting>
 
-## 31 Mar 2020
-
 <Meeting index="62" members="Bob, Mohammed, Wang" date="31 Mar 20 11:00" nextDate="7 Apr 2020 11:00">
 
 ::: slot topic
@@ -563,8 +580,6 @@ Software:
 :::
 
 </Meeting>
-
-## 24 Mar 2020
 
 <Meeting index="61" members="Bob, Mohammed, Wang" date="24 Mar 20 11:00" nextDate="31 Mar 2020 11:00">
 
@@ -611,8 +626,6 @@ Software:
 
 </Meeting>
 
-## 17 Mar 2020
-
 <Meeting index="60" members="Bob, Mohammed, Wang" date="17 Mar 20 11:00" nextDate="24 Mar 2020 11:00">
 
 ::: slot topic
@@ -654,8 +667,6 @@ Software:
 
 </Meeting>
 
-## 10 Mar 2020
-
 <Meeting index="59" members="Bob, Wang" date="10 Mar 20 11:00" nextDate="17 Mar 2020 11:00">
 
 ::: slot topic
@@ -681,8 +692,6 @@ Software:
 :::
 
 </Meeting>
-
-## 3 Mar 2020
 
 <Meeting index="58" members="Bob, Mohammed, Wang" date="3 Mar 20 11:00" nextDate="10 Mar 2020 11:00">
 
@@ -728,8 +737,6 @@ Software:
 :::
 
 </Meeting>
-
-## 25 Feb 2020
 
 <Meeting index="57" members="Bob, Mohammed, Wang" date="25 Feb 20 11:00" nextDate="3 Mar 2020 11:00">
 
@@ -781,8 +788,6 @@ Software:
 
 </Meeting>
 
-## 18 Feb 2020
-
 <Meeting index="56" members="Bob, Mohammed, Wang" date="18 Feb 20 11:00" nextDate="25 Feb 2020 11:00">
 
 ::: slot topic
@@ -824,8 +829,6 @@ Survey:
 :::
 
 </Meeting>
-
-## 4 Feb 2020
 
 <Meeting index="55" members="Bob, Mohammed, Wang" date="4 Feb 20 11:00" nextDate="18 Feb 2020 11:00">
 
@@ -875,8 +878,6 @@ CGVC:
 
 </Meeting>
 
-## 28 Jan 2020
-
 <Meeting index="54" members="Bob, Mohammed, Wang" date="28 Jan 20 11:00" nextDate="4 Feb 2020 11:00">
 
 ::: slot topic
@@ -922,8 +923,6 @@ Survey:
 
 </Meeting>
 
-## 14 Jan 2020
-
 <Meeting index="53" members="Bob, Wang" date="14 Jan 20 11:00" nextDate="28 Jan 2020 11:00">
 
 ::: slot topic
@@ -965,8 +964,6 @@ Survey:
 :::
 
 </Meeting>
-
-## 6 Jan 2020
 
 <Meeting index="52" members="Bob, Wang" date="6 Jan 20 11:00" nextDate="14 Jan 2020 11:00">
 
@@ -1030,8 +1027,6 @@ Survey:
 
 </Meeting>
 
-## 16 Dec 2019
-
 <Meeting index="51" members="Bob, Wang" date="16 Dec 19 11:00" nextDate="7 Jan 2020 11:00">
 
 ::: slot topic
@@ -1091,8 +1086,6 @@ Survey:
 
 </Meeting>
 
-## 10 Dec 2019
-
 <Meeting index="50" members="Bob, Wang" date="10 Dec 19 11:00" nextDate="20 Dec 19 11:00">
 
 ::: slot prog
@@ -1139,8 +1132,6 @@ Other:
 
 </Meeting>
 
-## 3 Dec 2019
-
 <Meeting index="49" members="Bob, Mohammed, Wang" date="3 Dec 19 11:00" nextDate="10 Dec 19 11:00">
 
 ::: slot topic
@@ -1177,8 +1168,6 @@ CGVC:
 :::
 
 </Meeting>
-
-## 26 Nov 2019
 
 <Meeting index="48" members="Bob, Wang" date="26 Nov 19 11:00" nextDate="3 Dec 19 11:00">
 
@@ -1223,8 +1212,6 @@ CGVC:
 :::
 
 </Meeting>
-
-## 15 Oct 2019
 
 <Meeting index="47" members="Bob, Mohammed, Wang" date="15 Oct 19 11:00" nextDate="4 Nov 19 11:00">
 
@@ -1286,8 +1273,6 @@ CGVC:
 
 </Meeting>
 
-## 7 Oct 2019
-
 <Meeting index="46" members="Bob, Mohammed, Wang" date="7 Oct 19 11:00" nextDate="15 Oct 19 11:00">
 
 ::: slot topic
@@ -1337,8 +1322,6 @@ CGVC:
 :::
 
 </Meeting>
-
-## 1 Oct 2019
 
 <Meeting index="45" members="Bob, Mohammed, Wang" date="1 Oct 19 11:00" nextDate="8 Oct 19 11:00">
 
@@ -1397,8 +1380,6 @@ CGVC:
 
 </Meeting>
 
-## 24 Sep 2019
-
 <Meeting index="44" members="Bob, Mohammed, Wang" date="24 Sep 19 11:00" nextDate="1 Oct 19 11:00">
 
 ::: slot topic
@@ -1452,8 +1433,6 @@ CGVC:
 
 </Meeting>
 
-## 17 Sep 2019
-
 <Meeting index="43" members="Bob, Mohammed, Wang" date="17 Sep 19 11:00" nextDate="24 Sep 19 11:00">
 
 ::: slot topic
@@ -1489,8 +1468,6 @@ CGVC:
 :::
 
 </Meeting>
-
-## 10 Sep 2019
 
 <Meeting index="42" members="Bob, Mohammed, Wang" date="10 Sep 19 11:00" nextDate="17 Sep 19 11:00">
 
@@ -1528,8 +1505,6 @@ CGVC:
 :::
 
 </Meeting>
-
-## 3 Sep 2019
 
 <Meeting index="41" members="Bob, Mohammed, Wang" date="3 Sep 19 11:00" nextDate="10 Sep 19 11:00">
 
@@ -1572,8 +1547,6 @@ CGVC:
 
 </Meeting>
 
-## 20 Aug 2019
-
 <Meeting index="40" members="Bob, Mohammed, Wang" date="20 Aug 19 11:00" nextDate="2 Sep 19 11:00">
 
 ::: slot topic
@@ -1613,8 +1586,6 @@ CGVC:
 
 </Meeting>
 
-## 13 Aug 2019
-
 <Meeting index="39" members="Bob, Elif, Wang" date="13 Aug 19 11:00" nextDate="20 Aug 19 11:00">
 
 ::: slot topic
@@ -1650,8 +1621,6 @@ CGVC:
 :::
 
 </Meeting>
-
-## 16 July 2019
 
 <Meeting index="38" members="Bob, Mohammed, Wang" date="16 July 19 11:00" nextDate="13 Aug 19 11:00">
 
@@ -1691,8 +1660,6 @@ CGVC:
 
 </Meeting>
 
-## 9 July 2019
-
 <Meeting index="37" members="Bob, Mohammed, Wang" date="9 July 19 11:00" nextDate="16 July 19 11:00">
 
 ::: slot topic
@@ -1728,8 +1695,6 @@ CGVC:
 :::
 
 </Meeting>
-
-## 2 July 2019
 
 <Meeting index="36" members="Bob, Mohammed, Wang" date="2 July 19 11:00" nextDate="7 July 19 11:00">
 
@@ -1775,8 +1740,6 @@ CGVC:
 
 </Meeting>
 
-## 27 June 2019
-
 <Meeting index="35" members="Bob, Carlo, Wang" date="27 June 19 11:00" nextDate="2 July 19 11:00">
 
 ::: slot topic
@@ -1817,9 +1780,9 @@ CGVC:
 
 </Meeting>
 
-## 20 June 2019 with Helen Thomas (NWIS)
-
 <Meeting index="34" members="Helen Thomas, Gareth John, Wendy Dearing, Tim O’Sullivan, Jeffrey Herschel Giansiracusa, Bob, Wang" date="20 June 19 13:00">
+
+With Helen Thomas (NWIS)
 
 ::: slot topic
 
@@ -1842,8 +1805,6 @@ CGVC:
 :::
 
 </Meeting>
-
-## 20 June 2019
 
 <Meeting index="33" members="Bob, Wang" date="20 June 19 10:00" nextDate="27 Jun 19 11:00">
 
@@ -1880,8 +1841,6 @@ CGVC:
 :::
 
 </Meeting>
-
-## 12 Jun 2019
 
 <Meeting index="32" members="Bob, Dylan, Elif, Wang" date="12 June 19 11:00" nextDate="20 Jun 19 11:00">
 
@@ -1926,8 +1885,6 @@ CGVC:
 
 </Meeting>
 
-## 30 May 2019
-
 <Meeting index="31" members="Bob, Dylan, Elif, Wang" date="30 May 19 11:00" nextDate="14 Jun 19 11:00">
 
 ::: slot topic
@@ -1962,8 +1919,6 @@ CGVC:
 
 </Meeting>
 
-## 23 May 2019
-
 <Meeting index="30" members="Bob, Dylan, Elif, Wang" date="23 May 19 11:00" nextDate="30 May 19 11:00">
 
 ::: slot topic
@@ -1996,8 +1951,6 @@ CGVC:
 :::
 
 </Meeting>
-
-## 17 May 2019
 
 <Meeting index="29" members="Bob, Wang" date="17 May 19 11:00" nextDate="24 May 19 11:00">
 
@@ -2032,8 +1985,6 @@ CGVC:
 :::
 
 </Meeting>
-
-## 2 May 2019
 
 <Meeting index="28" members="Bob, Carlo, Wang" date="2 May 19 14:30" nextDate="18 May 19 11:00">
 
@@ -2072,8 +2023,6 @@ CGVC:
 :::
 
 </Meeting>
-
-## 25 Apr 2019
 
 <Meeting index="27" members="Bob, Dylan, Elif, Wang" date="25 Apr 19 11:00" nextDate="2 May 19 11:00">
 
@@ -2124,8 +2073,6 @@ CGVC:
 :::
 
 </Meeting>
-
-## 18 Apr 2019
 
 <Meeting index="26" members="Bob, Carlo, Dylan, Elif, Wang" date="18 Apr 19 11:00" nextDate="25 Apr 19 11:00">
 
@@ -2183,8 +2130,6 @@ CGVC:
 :::
 
 </Meeting>
-
-## 11 Apr 2019
 
 <Meeting index="25" members="Bob, Dylan, Elif, Wang" date="12 Apr 19 11:00" nextDate="18 Apr 19 11:00">
 
@@ -2252,8 +2197,6 @@ CGVC:
 
 </Meeting>
 
-## 5 Apr 2019
-
 <Meeting index="24" members="Bob, Dylan, Elif, Wang" date="5 Apr 19 11:00" nextDate="11 Apr 19 11:00">
 
 ::: slot topic
@@ -2283,8 +2226,6 @@ CGVC:
 :::
 
 </Meeting>
-
-## 4 Apr 2019
 
 <Meeting index="23" members="Bob, Wang, Carlo" date="4 Apr 19 11:00" nextDate="5 Apr 19 11:00">
 

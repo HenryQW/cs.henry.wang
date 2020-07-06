@@ -1,6 +1,6 @@
 # Contact
 
-- [wang.qiru@swansea.ac.uk](mailto:wang.qiru@swansea.ac.uk)
+- [qiru.wang@nottingham.ac.uk](mailto:qiru.wang@nottingham.ac.uk)
 
 - [GitHub](https://github.com/HenryQW)
 
