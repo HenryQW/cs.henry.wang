@@ -1,4 +1,6 @@
-<Meeting index="74" members="Bob, Mohammed, Wang" date="30 June 2020 11:00" nextDate="7 July 2020 11:00">
+# 📋 Meeting 
+
+<Meeting index="75" members="Bob, Mohammed, Wang" date="7 July 2020 11:00" nextDate="9 July 2020 13:00">
 
 ::: slot topic
 

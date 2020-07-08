@@ -16,20 +16,46 @@
     }
 }
 .navbar .home-link .site-name {
-    color: #f26b1f;
+    color: #2d0c13;
 }
 
-.page .custom-block.tip {
-    border-color: #f26b1f;
+.page {
+    .custom-block.tip {
+        border-color: #2d0c13;
+    }
+
+    .content .logo-text {
+        padding-top: 2.6rem;
+        padding-bottom: 2rem;
+    }
 }
 
 .theme-container .page .content .logo-img {
     margin-top: 3.6rem;
 }
 
-.page .content .logo-text {
-    padding-top: 2.6rem;
-    padding-bottom: 2rem;
+.sidebar-group {
+    margin-bottom: 0 !important;
+
+    .sidebar-heading {
+        text-transform: none;
+        font-size: 1.2em !important;
+
+        .arrow.down {
+            border-top: 6px solid $badgeErrorColor;
+        }
+
+        .arrow.right {
+            border-left: 6px solid $badgeErrorColor;
+        }
+    }
+
+    .is-sub-group > .sidebar-heading:not(.clickable) {
+        padding-left: 1rem !important;
+        text-transform: none;
+        opacity: 1 !important;
+        font-size: 1em !important;
+    }
 }
 
 a {

@@ -1,4 +1,4 @@
-# Minutes of Meeting
+# 📋 Minutes of Meeting
 
 <!-- markdownlint-disable MD033 -->
 

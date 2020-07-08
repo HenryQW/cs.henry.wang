@@ -1,10 +1,5 @@
 <template>
   <div class="meetingBlock" :id="date">
-    <h2 :id="'m-' + index">
-      <a :href="'meeting.html#m-' + index" class="header-anchor">#</a>
-      Meeting {{ index }}
-    </h2>
-
     <table>
       <tr>
         <th>No</th>
@@ -21,19 +16,19 @@
     </table>
 
     <div>
-      <h4>Topic Discussed:</h4>
+      <h3>Topic Discussed</h3>
       <slot name="topic"></slot>
     </div>
     <div v-if="$slots.prog">
-      <h4>Progress:</h4>
+      <h3>Progress</h3>
       <slot name="prog"></slot>
     </div>
     <div v-if="$slots.todo">
-      <h4>Todo:</h4>
+      <h3>Todo</h3>
       <slot name="todo"></slot>
     </div>
     <div v-if="$slots.todoProg">
-      <h4>Todo Progress:</h4>
+      <h3>Todo Progress</h3>
       <slot name="todoProg"></slot>
     </div>
   </div>
