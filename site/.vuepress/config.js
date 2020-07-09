@@ -1,19 +1,4 @@
-const glob = require("glob");
-
-// function for loading all MD files in a directory
-const getChildren = (parent_path, dir) =>
-  glob
-    .sync(parent_path + "/" + dir + "/*.md")
-    .map((path) => {
-      path = path.slice(parent_path.length + 1, -3);
-      // remove README
-      if (path.endsWith("README")) {
-        path = path.slice(0, -6);
-      }
-      return path;
-    })
-    .sort()
-    .reverse();
+const { getChildren } = require("./util/helper");
 
 module.exports = {
   dest: "./dist",
@@ -71,7 +56,7 @@ module.exports = {
                 children: getChildren("site", "degree/phd/meeting"),
               },
               {
-                title: "📝 Summary",
+                title: "📝 Paper Summary",
                 children: getChildren("site", "degree/phd/summary"),
               },
             ],

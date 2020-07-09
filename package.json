@@ -5,14 +5,16 @@
   "scripts": {
     "dev": "yarn copy && vuepress dev site",
     "build": "yarn copy && vuepress build site",
-    "copy": "rm -rf site/zh/degree && cp -r site/degree site/zh/degree"
+    "copy": "rm -rf site/zh/degree && cp -r site/degree site/zh/degree",
+    "new": "node site/.vuepress/util/helper.js createNewMeeting"
   },
   "dependencies": {
     "@vuepress/plugin-back-to-top": "1.5.2",
+    "dayjs": "1.8.29",
     "glob": "7.1.6",
     "markdown-it-footnote": "3.0.2",
     "markdown-it-imsize": "2.0.1",
     "markdown-it-task-lists": "2.1.1",
-    "vuepress-theme-book": "^0.0.3"
+    "vuepress-theme-book": "0.0.3"
   }
 }
