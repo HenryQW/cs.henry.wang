@@ -49,6 +49,10 @@ module.exports = {
         ],
         sidebar: [
           {
+            title: "👨‍🎓 About Me",
+            path: "/",
+          },
+          {
             title: "PhD",
             children: [
               {
@@ -65,10 +69,6 @@ module.exports = {
             title: "MSc",
             children: ["degree/msc/meeting"],
           },
-          {
-            title: "👨‍🎓 About Me",
-            path: "/",
-          },
         ],
       },
       "/zh/": {
@@ -83,6 +83,10 @@ module.exports = {
           },
         ],
         sidebar: [
+          {
+            title: "👨‍🎓 关于我",
+            path: "/zh/",
+          },
           {
             title: "PhD",
             children: [
@@ -99,10 +103,6 @@ module.exports = {
           {
             title: "MSc",
             children: ["/zh/degree/msc/meeting"],
-          },
-          {
-            title: "👨‍🎓 关于我",
-            path: "/zh/",
           },
         ],
       },
