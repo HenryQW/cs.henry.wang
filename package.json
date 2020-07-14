@@ -1,6 +1,7 @@
 {
   "devDependencies": {
-    "vuepress": "1.5.2"
+    "vuepress": "1.5.2",
+    "vuepress-plugin-redirect": "1.2.4"
   },
   "scripts": {
     "dev": "yarn copy && vuepress dev site",
