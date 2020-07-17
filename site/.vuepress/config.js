@@ -22,11 +22,11 @@ module.exports = {
         },
       ],
     },
-    "vuepress-plugin-clean-urls": {
-      normalSuffix: "/",
-      indexSuffix: "/",
-      notFoundPath: "/" + getChildren("site", "degree/phd/meeting")[0],
-    },
+    // "vuepress-plugin-clean-urls": {
+    //   normalSuffix: "/",
+    //   indexSuffix: "/",
+    //   notFoundPath: "/" + getChildren("site", "degree/phd/meeting")[0],
+    // },
   },
   markdown: {
     extendMarkdown: (md) => {
