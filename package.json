@@ -1,13 +1,15 @@
 {
   "devDependencies": {
     "vuepress": "1.5.2",
-    "vuepress-plugin-redirect": "1.2.4"
+    "vuepress-plugin-clean-urls": "^1.1.1",
+    "vuepress-plugin-redirect": "1.2.4",
+    "vuepress-plugin-smooth-scroll": "^0.0.9"
   },
   "scripts": {
     "dev": "yarn copy && vuepress dev site",
     "build": "yarn copy && vuepress build site",
     "copy": "rm -rf site/zh/degree && cp -r site/degree site/zh/degree",
-    "new": "node site/.vuepress/util/helper.js createNewMeeting"
+    "new": "node -e \"require('./site/.vuepress/util/helper.js').createNewMeeting()\""
   },
   "dependencies": {
     "@vuepress/plugin-back-to-top": "1.5.2",

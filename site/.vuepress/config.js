@@ -7,6 +7,7 @@ module.exports = {
   dest: "./dist",
   theme: "book",
   plugins: {
+    "vuepress-plugin-smooth-scroll": true,
     "@vuepress/back-to-top": true,
     redirect: {
       redirectors: [
@@ -20,6 +21,11 @@ module.exports = {
           ],
         },
       ],
+    },
+    "vuepress-plugin-clean-urls": {
+      normalSuffix: "/",
+      indexSuffix: "/",
+      notFoundPath: "/" + getChildren("site", "degree/phd/meeting")[0],
     },
   },
   markdown: {
