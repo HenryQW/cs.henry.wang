@@ -21,7 +21,7 @@ const getChildren = (parent_path, dir) =>
 const createNewMeeting = (weekday = 2, time = "11:00") => {
   const list = getChildren("site", "degree/phd/meeting")[0].split("/");
   const index = +list[list.length - 1].match(/[0-9]*\.?[0-9]+/g)[0] + 1;
-  const date = dayjs().day(2);
+  const date = dayjs().day(weekday);
   const nextDate = date.add(7, "day");
 
   const content = `# Meeting ${index}
