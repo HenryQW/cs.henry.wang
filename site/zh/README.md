@@ -14,6 +14,10 @@
 
 该研究项目经费源自英国工程和自然科学研究委员会 (EPSRC) 经费来源： EP/S010238/2。
 
+### CGVC 网站管理
+
+我重新设计了 Computer Graphics & Visual Computing (CGVC) 会议[的网站](https://cgvc.org.uk/)。负责该网站的日常运维。
+
 ## ☎️ 联系方式
 
 - [Email](mailto:qiru.wang@nottingham.ac.uk)

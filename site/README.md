@@ -14,6 +14,10 @@ The current project aims to provide an advanced visual analytics and visualizati
 
 This research is funded by the grant EP/S010238/2 from the Engineering and Physical Sciences Research Council (EPSRC).
 
+### CGVC Web Master
+
+I rejuvenated the Computer Graphics & Visual Computing (CGVC) [conference website](https://cgvc.org.uk/) with a brand new design. Also serve as the web master for day-to-day maintenance.
+
 ## ☎️ Contact
 
 - [Email](mailto:qiru.wang@nottingham.ac.uk)
