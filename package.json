@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "vuepress": "1.5.2",
+    "vuepress": "1.5.3",
     "vuepress-plugin-redirect": "1.2.4",
     "vuepress-plugin-smooth-scroll": "0.0.9"
   },
