@@ -11,7 +11,7 @@
     "new": "node -e \"require('./site/.vuepress/util/helper.js').createNewMeeting()\""
   },
   "dependencies": {
-    "@vuepress/plugin-back-to-top": "1.5.3",
+    "@vuepress/plugin-back-to-top": "1.5.4",
     "dayjs": "1.8.34",
     "glob": "7.1.6",
     "markdown-it-footnote": "3.0.2",
