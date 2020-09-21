@@ -26,7 +26,7 @@ const createNewMeeting = (weekday = 2, time = "11:00") => {
 
   const content = `# Meeting ${index}
 
-<Meeting index="${index}" members="Bob, Mohammed, Wang" date="${date.format(
+<Meeting index="${index}" members="Bob, Elif, Mohammed, Wang" date="${date.format(
     "D MMM YYYY"
   )} ${time}" nextDate="${nextDate.format("D MMM YYYY")} ${time}">
 
