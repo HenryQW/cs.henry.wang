@@ -1,6 +1,6 @@
 # Meeting 96
 
-<Meeting index="96" members="Rita, Hui, Tom, Cagatay, Elif, Wang" date="11 Nov 2020 15:00" nextDate="20 Nov 2020 15:00">
+<Meeting index="96" members="Rita, Hui, Tom, Cagatay, Elif, Wang" date="11 Nov 2020 15:00" nextDate="25 Nov 2020 15:00">
 
 ::: slot topic
 
