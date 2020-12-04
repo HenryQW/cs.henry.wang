@@ -14,9 +14,18 @@
 
 该研究项目经费源自英国工程和自然科学研究委员会 (EPSRC) 经费来源： EP/S010238/2。
 
+### 苏格兰 COVID-19 研究协会 (SCRC)
+
+[SCRC](https://www.gla.ac.uk/scrc) 是响应 [英国皇家学会的号召]](https://royalsociety.org/topics-policy/health-and-wellbeing/ramp/) 而成立的研究协会，致力于新冠肺炎流行病学模型的研究。
+
+主要职责：
+  - 开发可视化交互工具用于验证建模团队的模型。
+
 ### CGVC 网站管理
 
-我重新设计了 Computer Graphics & Visual Computing (CGVC) 会议[的网站](https://cgvc.org.uk/)。负责该网站的日常运维。
+主要职责
+  - 重新设计 Computer Graphics & Visual Computing (CGVC) 会议[的网站](https://cgvc.org.uk/)。
+  - 负责该网站的日常运维。
 
 ## ☎️ 联系方式
 

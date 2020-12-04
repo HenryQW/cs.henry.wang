@@ -14,9 +14,18 @@ The current project aims to provide an advanced visual analytics and visualizati
 
 This research is funded by the grant EP/S010238/2 from the Engineering and Physical Sciences Research Council (EPSRC).
 
+### The Scottish COVID-19 Response Consortium (SCRC)
+
+[SCRC](https://www.gla.ac.uk/scrc) is a jointly formed to respond to [a call by the Royal Society](https://royalsociety.org/topics-policy/health-and-wellbeing/ramp/) to develop more epidemiological models of COVID-19 spread.
+
+Main duties:
+  - Development of interactive visualization tools to assist the modelling team.
+
 ### CGVC Web Master
 
-I rejuvenated the Computer Graphics & Visual Computing (CGVC) [conference website](https://cgvc.org.uk/) with a brand new design. Also serve as the web master for day-to-day maintenance.
+Main duties:
+  - Rejuvenated the Computer Graphics & Visual Computing (CGVC) [conference website](https://cgvc.org.uk/) with a brand new design.
+  - Also serve as the web master for day-to-day maintenance.
 
 ## ☎️ Contact
 
