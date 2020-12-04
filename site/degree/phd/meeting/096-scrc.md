@@ -1,4 +1,4 @@
-# Meeting 96
+# Meeting 96 - SCRC 3
 
 <Meeting index="96" members="Rita, Hui, Tom, Cagatay, Elif, Wang" date="11 Nov 2020 15:00" nextDate="25 Nov 2020 15:00">
 
