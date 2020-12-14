@@ -21,7 +21,7 @@
 ::: slot todo
 
 - [x] Hui sends PCA code to Wang
-- [ ] Wang to preprocess the data
+- [x] Wang to preprocess the data
 - [ ] Elif to look at TSNE
 
 :::
