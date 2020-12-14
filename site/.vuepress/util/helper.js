@@ -60,14 +60,6 @@ Survey:
 - [ ]
 - [ ]
 
-Letter-space Vis:
-
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-- [ ]
-
 :::
 
 </Meeting>
