@@ -52,8 +52,6 @@ const createNewMeeting = (weekday = 1, time = "11:00") => {
 
 ::: slot todo
 
-Survey:
-
 - [ ]
 - [ ]
 - [ ]
