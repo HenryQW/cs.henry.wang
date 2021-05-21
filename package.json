@@ -14,7 +14,7 @@
     "@vuepress/plugin-back-to-top": "1.8.2",
     "dayjs": "1.10.4",
     "glob": "7.1.7",
-    "markdown-it-footnote": "3.0.2",
+    "markdown-it-footnote": "3.0.3",
     "markdown-it-imsize": "2.0.1",
     "markdown-it-task-lists": "2.1.1",
     "vuepress-theme-book": "0.0.5"
